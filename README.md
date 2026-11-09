@@ -78,13 +78,13 @@ flowchart TB
 | [StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) | 分镜与视频生成工具，用 Gemini 写分镜和出关键帧、Veo 生成过渡镜头、ffmpeg 拼接成片。 | 1.0k | 2026-09 |
 | [TypeTale](https://github.com/TypeTale/TypeTale) | 字字动画，免费的 AIGC 视频生成软件，主打 AI 短剧、AI 电影和小说推文。 | 909 | 2026-08 |
 | [wind-comic](https://github.com/ChrisChen667788/wind-comic) | 多 Agent 流水线，一行文字生成短剧：剧本、电影感分镜、角色一致的视频，模型供应商可替换。 | 707 | 2026-11 |
-| [novanova-studio](https://github.com/Swayingleaves/novanova-studio) | Agent 驱动的全流程平台，集出图出视频、无限画布、小说转短剧、3D 导演台于一体。 | 701 | 2026-11 |
-| [Nomi](https://github.com/aqm857886159/Nomi) | 本地优先的 AI 视频工作台，可接任意模型或本地 ComfyUI，让 Claude Code / Codex 通过 MCP 来执导，输出可编辑的时间线初剪。 | 633 | 2026-11 |
+| [novanova-studio](https://github.com/Swayingleaves/novanova-studio) | Agent 驱动的全流程平台，集出图出视频、无限画布、小说转短剧、3D 导演台于一体。 | 702 | 2026-11 |
+| [Nomi](https://github.com/aqm857886159/Nomi) | 本地优先的 AI 视频工作台，可接任意模型或本地 ComfyUI，让 Claude Code / Codex 通过 MCP 来执导，输出可编辑的时间线初剪。 | 634 | 2026-11 |
 | [CineGen-ShortDrama](https://github.com/UllrAI/CineGen-ShortDrama) | AI 导演系统，生成漫剧、动漫、短剧、解说漫和动态漫。 | 571 | 2026-09 |
 | [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) | 多 Agent 微短剧生成器，编剧 → 分镜 → 关键帧 → 视频。 | 569 | 2026-08 |
 | [KomaSlate](https://github.com/xeronsh/KomaSlate) | 本地优先、非破坏性的 AI 分镜工作台，支持重拍镜头、版本对比和 FCPXML 导出。 | 413 | 2026-11 |
 | [novelvids](https://github.com/Anning01/novelvids) | AI 漫剧与短剧创作工作台，覆盖故事创作、角色资产、分镜和出图出视频，支持本地部署。 | 362 | 2026-11 |
-| [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | 免费轻量的 AI 无限画布，支持短剧剧本、角色、分镜、出图出视频和剪辑，集成 ComfyUI、Agent、MCP。 | 342 | 2026-11 |
+| [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | 免费轻量的 AI 无限画布，支持短剧剧本、角色、分镜、出图出视频和剪辑，集成 ComfyUI、Agent、MCP。 | 343 | 2026-11 |
 | [Kinema](https://github.com/chillzhuang/Kinema) 🆕 | 由 Codex、Claude Code 驱动的影像智能体，管理章节与分镜规划、角色场景道具资产，直到成片。 | 242 | 2026-09 |
 
 ## Agent Skills（剧本 · 分镜 · 提示词）
@@ -238,7 +238,7 @@ flowchart TB
 | [ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) 💤 | LivePortrait 的 ComfyUI 节点。 | 2.2k | 2024-08 |
 | [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) | 视频加载、合成、导出等常用视频节点。 | 1.9k | 2026-09 |
 | [ComfyUI-Frame-Interpolation](https://github.com/Fannovel16/ComfyUI-Frame-Interpolation) | ComfyUI 补帧节点。 | 1.1k | 2026-03 |
-| [comfyui-AICG3D](https://github.com/JGRFW/comfyui-AICG3D) 🆕 | ComfyUI 本地短剧工作台插件，支持长视频生成。 | 484 | 2026-11 |
+| [comfyui-AICG3D](https://github.com/JGRFW/comfyui-AICG3D) 🆕 | ComfyUI 本地短剧工作台插件，支持长视频生成。 | 483 | 2026-11 |
 
 ## 提示词与案例库
 

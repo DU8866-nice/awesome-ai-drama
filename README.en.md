@@ -78,13 +78,13 @@ Open-source workspaces that take a novel or a one-line idea through script, char
 | [StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) | Storyboard and video tool using Gemini for boards and frames, Veo for transition clips and ffmpeg for the final cut. | 1.0k | 2026-09 |
 | [TypeTale](https://github.com/TypeTale/TypeTale) | TypeTale, a free AIGC video app for AI dramas, films and novel-promo videos. | 909 | 2026-08 |
 | [wind-comic](https://github.com/ChrisChen667788/wind-comic) | Multi-agent pipeline from one line of text to a short drama with script, cinematic boards and character-consistent video; provider-agnostic. | 707 | 2026-11 |
-| [novanova-studio](https://github.com/Swayingleaves/novanova-studio) | Agent-driven platform with image and video generation, infinite canvas, novel-to-drama and a 3D director stage. | 701 | 2026-11 |
-| [Nomi](https://github.com/aqm857886159/Nomi) | Local-first AI video workbench; bring any model or local ComfyUI and let Claude Code or Codex direct it over MCP into an editable first cut. | 633 | 2026-11 |
+| [novanova-studio](https://github.com/Swayingleaves/novanova-studio) | Agent-driven platform with image and video generation, infinite canvas, novel-to-drama and a 3D director stage. | 702 | 2026-11 |
+| [Nomi](https://github.com/aqm857886159/Nomi) | Local-first AI video workbench; bring any model or local ComfyUI and let Claude Code or Codex direct it over MCP into an editable first cut. | 634 | 2026-11 |
 | [CineGen-ShortDrama](https://github.com/UllrAI/CineGen-ShortDrama) | AI director system for manga dramas, anime, short dramas and motion comics. | 571 | 2026-09 |
 | [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) | Multi-agent micro-drama generator, screenwriter to storyboard to frames to video. | 569 | 2026-08 |
 | [KomaSlate](https://github.com/xeronsh/KomaSlate) | Local-first, non-destructive AI storyboarding workspace with shot retakes, version diffs and FCPXML export. | 413 | 2026-11 |
 | [novelvids](https://github.com/Anning01/novelvids) | Self-hostable AI drama workspace covering story, character assets, storyboards and generation. | 362 | 2026-11 |
-| [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | Free, lightweight AI canvas for drama scripts, characters, storyboards, generation and editing, with ComfyUI, agents and MCP. | 342 | 2026-11 |
+| [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | Free, lightweight AI canvas for drama scripts, characters, storyboards, generation and editing, with ComfyUI, agents and MCP. | 343 | 2026-11 |
 | [Kinema](https://github.com/chillzhuang/Kinema) 🆕 | Video agent driven by Codex or Claude Code that plans chapters and shots and manages assets through to the final film. | 242 | 2026-09 |
 
 ## Agent skills (script, storyboard, prompts)
@@ -238,7 +238,7 @@ The core of most local setups; nearly every open video, voice and lip-sync model
 | [ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) 💤 | ComfyUI nodes for LivePortrait. | 2.2k | 2024-08 |
 | [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) | Common video nodes for loading, combining and exporting. | 1.9k | 2026-09 |
 | [ComfyUI-Frame-Interpolation](https://github.com/Fannovel16/ComfyUI-Frame-Interpolation) | Frame interpolation nodes for ComfyUI. | 1.1k | 2026-03 |
-| [comfyui-AICG3D](https://github.com/JGRFW/comfyui-AICG3D) 🆕 | Local short-drama workspace plugin for ComfyUI with long-video generation. | 484 | 2026-11 |
+| [comfyui-AICG3D](https://github.com/JGRFW/comfyui-AICG3D) 🆕 | Local short-drama workspace plugin for ComfyUI with long-video generation. | 483 | 2026-11 |
 
 ## Prompt and case libraries
 
