@@ -1,0 +1,504 @@
+# Source of truth for README.md and README.en.md.
+# Edit this file, then run: python scripts/build_readme.py
+# Each GitHub entry needs `repo`, `zh` and `en`. Keep descriptions to one sentence.
+
+categories:
+  - id: platforms
+    zh: "一站式短剧 / 漫剧创作平台"
+    en: "All-in-one drama studios"
+    zh_intro: "从小说或一句话创意出发，串起剧本、角色资产、分镜、出图出视频和成片的开源工作台，多数支持本地部署和自选模型。"
+    en_intro: "Open-source workspaces that take a novel or a one-line idea through script, character assets, storyboard, image and video generation to a finished cut. Most can be self-hosted with your own model keys."
+    items:
+      - repo: HBAI-Ltd/Toonflow-app
+        zh: "短剧、漫剧制作平台，无限画布 + AI Agent + 可视化工作流，覆盖剧本、分镜、角色场景资产与图像视频生成，支持本地部署、MCP 和插件。"
+        en: "Drama and motion-comic studio with an infinite canvas, AI agents and visual workflows covering script, storyboard, assets and image/video generation; self-hostable with MCP and plugins."
+      - repo: chatfire-AI/huobao-drama
+        zh: "火宝短剧，一句话生成完整短剧，从剧本到成片全自动。"
+        en: "Huobao Drama, an end-to-end generator that turns one sentence into a finished short drama."
+      - repo: dramaclaw/dramaclaw
+        zh: "通用 AIGC 视频引擎，剧本到成片一条流水线，漫剧、广告、电商视频都能做。"
+        en: "General-purpose AIGC video engine with one pipeline from script to film, for dramas, ads and product videos."
+      - repo: yi1108/printfilm
+        zh: "AI 短视频营销与 AI 短剧创作平台。"
+        en: "Platform for AI short-video marketing and AI short-drama creation."
+      - repo: Forget-C/Jellyfish
+        zh: "面向 AI 短剧的端到端生产工作台：剧本输入、结构化分镜、一致性管理、镜头准备、视频生成到导出。"
+        en: "End-to-end production workspace for AI short dramas, from script and structured storyboards to consistency management, generation and export."
+      - repo: ArcReel/ArcReel
+        zh: "Agent 驱动、可自部署的视频工作台，把小说和剧本转成角色、场景、道具资产、分镜、视频和剪映草稿，带跨镜头一致性和费用追踪。"
+        en: "Self-hosted, agent-driven workspace that turns novels and scripts into assets, storyboards, videos and CapCut drafts, with cross-shot consistency and cost tracking."
+      - repo: shuyu-labs/BigBanana-AI-Director
+        zh: "一站式 AI 短剧 / 漫剧导演平台，采用 Script-to-Asset-to-Keyframe 工作流控制角色一致性和镜头运动。"
+        en: "AI drama director platform built on a Script-to-Asset-to-Keyframe workflow for consistent characters, scenes and camera moves."
+      - repo: xuanyustudio/LocalMiniDrama
+        zh: "本地运行的 AI 短剧 / 漫剧生成工具，故事 → 分镜 → 视频，数据不出本机，已接入 Seedance 2。"
+        en: "Local-first AI drama maker, story to storyboard to video with data kept on your machine; supports Seedance 2."
+      - repo: alibaba/lumenx
+        zh: "阿里开源的 LumenX Studio，把小说文本转成动态视频，打通剧本分析、角色定制、分镜绘制到视频合成。"
+        en: "LumenX Studio from Alibaba, turning novel text into motion video through script analysis, character design, storyboarding and synthesis."
+      - repo: xhongc/ai_story
+        zh: "AI 视频、AI 动漫、AI 短剧 / 漫剧自动化生成工具。"
+        en: "Automated generator for AI videos, anime clips and AI dramas."
+      - repo: LingyiChen-AI/AIComicBuilder
+        zh: "把剧本变成动态漫画视频，含 AI 角色设计、分镜和视频合成。"
+        en: "Turns scripts into animated comic videos with AI character design, storyboarding and video synthesis."
+      - repo: Stonewuu/ai-fusion-video
+        zh: "融光，基于 Agent 的全流程 AI 短剧 / 漫剧 / 视频创作平台（Java + AgentScope）。"
+        en: "Agent-based end-to-end platform for short dramas, motion comics and videos, built with Java and AgentScope."
+      - repo: LingGuoAI/LingGuo-Drama
+        zh: "灵果短剧 AI，一句话生成完整短剧或漫剧。"
+        en: "Lingguo Drama, a one-stop generator for mini-dramas and motion comics."
+      - repo: shijue-aid/aid-studio
+        zh: "AI 漫剧、短剧、电影与漫画创作平台，支持剧本、角色场景、智能分镜、出图出视频、配音和成片预览，可自部署。"
+        en: "Self-hostable studio for AI dramas, films and comics with script, assets, storyboards, generation, dubbing and preview."
+      - repo: 0xsline/StoryGen-Atelier
+        zh: "分镜与视频生成工具，用 Gemini 写分镜和出关键帧、Veo 生成过渡镜头、ffmpeg 拼接成片。"
+        en: "Storyboard and video tool using Gemini for boards and frames, Veo for transition clips and ffmpeg for the final cut."
+      - repo: TypeTale/TypeTale
+        zh: "字字动画，免费的 AIGC 视频生成软件，主打 AI 短剧、AI 电影和小说推文。"
+        en: "TypeTale, a free AIGC video app for AI dramas, films and novel-promo videos."
+      - repo: ChrisChen667788/wind-comic
+        zh: "多 Agent 流水线，一行文字生成短剧：剧本、电影感分镜、角色一致的视频，模型供应商可替换。"
+        en: "Multi-agent pipeline from one line of text to a short drama with script, cinematic boards and character-consistent video; provider-agnostic."
+      - repo: Swayingleaves/novanova-studio
+        zh: "Agent 驱动的全流程平台，集出图出视频、无限画布、小说转短剧、3D 导演台于一体。"
+        en: "Agent-driven platform with image and video generation, infinite canvas, novel-to-drama and a 3D director stage."
+      - repo: aqm857886159/Nomi
+        zh: "本地优先的 AI 视频工作台，可接任意模型或本地 ComfyUI，让 Claude Code / Codex 通过 MCP 来执导，输出可编辑的时间线初剪。"
+        en: "Local-first AI video workbench; bring any model or local ComfyUI and let Claude Code or Codex direct it over MCP into an editable first cut."
+      - repo: UllrAI/CineGen-ShortDrama
+        zh: "AI 导演系统，生成漫剧、动漫、短剧、解说漫和动态漫。"
+        en: "AI director system for manga dramas, anime, short dramas and motion comics."
+      - repo: Anil-matcha/Open-AI-Micro-Drama-Generator
+        zh: "多 Agent 微短剧生成器，编剧 → 分镜 → 关键帧 → 视频。"
+        en: "Multi-agent micro-drama generator, screenwriter to storyboard to frames to video."
+      - repo: xeronsh/KomaSlate
+        zh: "本地优先、非破坏性的 AI 分镜工作台，支持重拍镜头、版本对比和 FCPXML 导出。"
+        en: "Local-first, non-destructive AI storyboarding workspace with shot retakes, version diffs and FCPXML export."
+      - repo: Anning01/novelvids
+        zh: "AI 漫剧与短剧创作工作台，覆盖故事创作、角色资产、分镜和出图出视频，支持本地部署。"
+        en: "Self-hostable AI drama workspace covering story, character assets, storyboards and generation."
+      - repo: Tenney95/AI-Canvas-tauri
+        zh: "免费轻量的 AI 无限画布，支持短剧剧本、角色、分镜、出图出视频和剪辑，集成 ComfyUI、Agent、MCP。"
+        en: "Free, lightweight AI canvas for drama scripts, characters, storyboards, generation and editing, with ComfyUI, agents and MCP."
+      - repo: chillzhuang/Kinema
+        zh: "由 Codex、Claude Code 驱动的影像智能体，管理章节与分镜规划、角色场景道具资产，直到成片。"
+        en: "Video agent driven by Codex or Claude Code that plans chapters and shots and manages assets through to the final film."
+
+  - id: skills
+    zh: "Agent Skills（剧本 · 分镜 · 提示词）"
+    en: "Agent skills (script, storyboard, prompts)"
+    zh_intro: "装进 Claude Code、Codex、DeepSeek Harness 等智能体就能用的技能包，适合已有出图出视频渠道、想让 AI 写剧本和分镜的人。"
+    en_intro: "Skill packs for Claude Code, Codex, DeepSeek Harness and similar agents, for people who already have generation tools and want the agent to write scripts and shot lists."
+    items:
+      - repo: Emily2040/seedance-2.0
+        zh: "围绕 Seedance 2.0 的完整制作流程（剧本、分镜、提示词到成片）。"
+        en: "Full production pipeline for filmmaking with Seedance 2.0."
+      - repo: eternityspring/shuohao-skills
+        zh: "AI 短剧制作 Skill：拆角色、排大纲、出场景与道具设定、写剧本、切分镜。"
+        en: "Short-drama skills for character bibles, adaptation outlines, art bibles, screenplays and storyboards."
+      - repo: dexhunter/seedance2-skill
+        zh: "为 Seedance 2.0 写出高质量视频提示词的 Skill。"
+        en: "Skill for writing strong Seedance 2.0 video prompts."
+      - repo: zenstory-ai/drama-skills
+        zh: "小说改剧本、角色三视图、分镜脚本、生图生视频提示词和成片审片。"
+        en: "Novel-to-script, character turnarounds, shot lists, generation prompts and final-cut review."
+      - repo: songguoxs/seedance-prompt-skill
+        zh: "生成 Seedance 2.0 视频提示词的 Skill。"
+        en: "Skill that writes Seedance 2.0 video prompts."
+      - repo: liangdabiao/Seedance2-Storyboard-Generator
+        zh: "把小说或故事转成多集视频剧本和分镜，针对 Seedance 2.0 设计。"
+        en: "Turns novels and stories into multi-episode scripts and storyboards designed for Seedance 2.0."
+      - repo: lixiaoxiao9888-create/manju-laoli-skill
+        zh: "漫剧全流程套装：1 个总控 + 12 个子技能，覆盖素材、剧本、资产、分镜和质检。"
+        en: "Manga-drama suite with one director skill and 12 sub-skills for research, script, assets, shots and QA."
+      - repo: 0xsline/short-drama
+        zh: "短剧剧本创作 Skill，从选题立项、分集撰写到质量自检、合规审核和出海。"
+        en: "Short-drama screenwriting skill from concept and episodes to self-review, compliance and overseas release."
+      - repo: zhanghao123vip/ai-manju-skills
+        zh: "21 个题材的 AI 漫剧全流程 Skill，一句点子生成企划、资产提示词、分集剧本、分镜和视频提示词。"
+        en: "AI manga-drama skills across 21 genres, from one idea to plan, asset prompts, episodes, shots and video prompts."
+      - repo: lixiaoxiao9888-create/short-drama-factory
+        zh: "面向抖音 / 红果的工业化短剧编剧系统，网文或创意改成 30 至 100 集剧本。"
+        en: "Industrial short-drama screenwriting system that turns an idea or web novel into a 30 to 100 episode script."
+      - repo: VanGong1999/screen-creative-skills
+        zh: "31 个影视策划与评估 Skill：IP 改编、题材提炼、人物小传、拉片分析、大纲生成。"
+        en: "31 film and TV development skills for IP adaptation, premise, character bios, breakdowns and outlines."
+      - repo: A-cat-with-carrots/OnlyShot
+        zh: "一句话 → 剧本、分镜、分镜图、视频、剪辑五步出短剧，集成即梦 / Seedance。"
+        en: "Five-step short-drama pipeline (script, shots, frames, video, edit) integrated with Jimeng and Seedance."
+      - repo: zhaihao118/Micro-Drama-Skills
+        zh: "用 Claude Skills 串起剧本、角色设计、分镜生成到视频提交的短剧自动化流程。"
+        en: "Claude Skills that automate a micro-drama workflow from script and characters to storyboards and video jobs."
+      - repo: neopen/story-shot-agent
+        zh: "剧本分镜智能体，把任意格式剧本拆成镜头片段并生成跨片段一致的视频提示词。"
+        en: "Agent that splits any script into shots and writes consistent text-to-video prompts across them."
+      - repo: Wan-Video/Wan-skills
+        zh: "万相官方 Agent Skills，让智能体直接调用 Wan 的生成能力。"
+        en: "Official Wan agent skills for calling Wan generation from your agent."
+
+  - id: video-models
+    zh: "开源视频生成模型"
+    en: "Open video generation models"
+    zh_intro: "可以下载权重本地跑或接进 ComfyUI 的视频模型。显存不够时可以先用各自的云端 API 或 RunningHub 这类云端 ComfyUI。"
+    en_intro: "Video models with downloadable weights for local runs or ComfyUI. Without enough VRAM, start with their hosted APIs or a cloud ComfyUI."
+    items:
+      - repo: hpcaitech/Open-Sora
+        zh: "Open-Sora，面向所有人的高效开源视频生成。"
+        en: "Open-Sora, efficient open video generation for everyone."
+      - repo: Wan-Video/Wan2.2
+        zh: "阿里万相 Wan2.2，开源大规模视频生成模型，文生视频、图生视频都支持。"
+        en: "Wan2.2 from Alibaba, an open large-scale video model for text-to-video and image-to-video."
+      - repo: Wan-Video/Wan2.1
+        zh: "万相 Wan2.1，上一代开源视频模型，社区工作流和 LoRA 资源丰富。"
+        en: "Wan2.1, the previous Wan generation, with many community workflows and LoRAs."
+      - repo: lllyasviel/FramePack
+        zh: "让视频扩散在消费级显卡上也能跑长视频的框架。"
+        en: "Makes long video diffusion practical on consumer GPUs."
+      - repo: zai-org/CogVideo
+        zh: "智谱 CogVideoX，文生视频和图生视频。"
+        en: "CogVideoX from Zhipu, text-to-video and image-to-video."
+      - repo: Tencent-Hunyuan/HunyuanVideo
+        zh: "腾讯混元视频生成框架。"
+        en: "Tencent Hunyuan video generation framework."
+      - repo: Lightricks/LTX-Video
+        zh: "LTX-Video，速度快的开源视频模型。"
+        en: "LTX-Video, a fast open video model."
+      - repo: Lightricks/LTX-2
+        zh: "LTX-2 音视频联合生成模型，附 LoRA 训练工具。"
+        en: "LTX-2 audio-video model with an official LoRA trainer."
+      - repo: SkyworkAI/SkyReels-V2
+        zh: "昆仑天工 SkyReels-V2，支持无限时长的影视级视频生成。"
+        en: "SkyReels-V2, an infinite-length film generation model."
+      - repo: Tencent-Hunyuan/HunyuanVideo-1.5
+        zh: "混元视频 1.5，轻量版视频生成模型。"
+        en: "HunyuanVideo-1.5, a lightweight video model."
+      - repo: SandAI-org/MAGI-1
+        zh: "自回归大规模视频生成，可逐段续写。"
+        en: "Autoregressive large-scale video generation that extends clip by clip."
+      - repo: PKU-YuanGroup/Helios
+        zh: "实时长视频生成模型。"
+        en: "Real-time long video generation model."
+      - repo: Tencent-Hunyuan/HunyuanVideo-I2V
+        zh: "基于混元视频的可定制图生视频模型。"
+        en: "Customizable image-to-video model based on HunyuanVideo."
+      - repo: SkyworkAI/SkyReels-V3
+        zh: "SkyReels V3 多模态视频生成模型。"
+        en: "SkyReels V3 multimodal video generation model."
+
+  - id: consistency
+    zh: "角色一致性与图像生成 / 编辑"
+    en: "Character consistency and image generation"
+    zh_intro: "漫剧最头疼的是\"同一个角色每张图都长得不一样\"。先用这些模型做稳定的角色设定图和关键帧，再拿去图生视频。"
+    en_intro: "Keeping a character on-model across shots is the hardest part of AI drama. Use these to make stable character sheets and keyframes before image-to-video."
+    items:
+      - repo: black-forest-labs/flux
+        zh: "FLUX.1 系列模型的官方推理代码。"
+        en: "Official inference code for the FLUX.1 models."
+      - repo: instantX-research/InstantID
+        zh: "一张照片零样本保持人物身份。"
+        en: "Zero-shot identity-preserving generation from a single photo."
+      - repo: QwenLM/Qwen-Image
+        zh: "通义千问图像模型，擅长复杂文字渲染和精确图像编辑，中文海报、字幕画面友好。"
+        en: "Qwen-Image, strong at complex text rendering and precise editing, good for Chinese text in frame."
+      - repo: tencent-ailab/IP-Adapter
+        zh: "用参考图做提示的适配器，常用于锁定角色或画风。"
+        en: "Image-prompt adapter widely used to lock a character or style."
+      - repo: VectorSpaceLab/OmniGen2
+        zh: "统一的多模态生成与编辑模型。"
+        en: "Unified multimodal generation and editing model."
+      - repo: ToTheBeginning/PuLID
+        zh: "快速的人物 ID 定制。"
+        en: "Fast identity customization."
+      - repo: bytedance/UNO
+        zh: "字节 UNO，单主体和多主体定制，适合多角色同框。"
+        en: "ByteDance UNO for single- and multi-subject customization, useful for several characters in one frame."
+      - repo: bytedance/USO
+        zh: "字节 USO，统一风格与主体驱动生成，可同时锁角色和画风。"
+        en: "ByteDance USO, unified style- and subject-driven generation."
+
+  - id: voice
+    zh: "配音 / TTS / 声音克隆"
+    en: "Voice, TTS and voice cloning"
+    zh_intro: "给角色配音、做旁白。多角色对白可以重点看 MOSS-TTSD、VibeVoice 这类对话合成模型。"
+    en_intro: "Character voices and narration. For multi-speaker dialogue, look at dialogue models such as MOSS-TTSD and VibeVoice."
+    items:
+      - repo: RVC-Boss/GPT-SoVITS
+        zh: "1 分钟语音就能训练出可用的声音模型，中文社区使用广泛。"
+        en: "Few-shot voice cloning from about one minute of audio, widely used in Chinese communities."
+      - repo: microsoft/VibeVoice
+        zh: "微软开源语音模型，支持长篇多说话人语音合成。"
+        en: "Microsoft's open voice models for long-form, multi-speaker speech."
+      - repo: fishaudio/fish-speech
+        zh: "Fish Speech 开源 TTS，中英日等多语言。"
+        en: "Fish Speech open TTS with multilingual support."
+      - repo: index-tts/index-tts
+        zh: "B 站开源的 IndexTTS，工业级可控的零样本 TTS。"
+        en: "IndexTTS from Bilibili, industrial-grade controllable zero-shot TTS."
+      - repo: QwenAudio/CosyVoice
+        zh: "通义 CosyVoice 多语言语音生成，推理、训练、部署全套。"
+        en: "CosyVoice multilingual voice generation with inference, training and deployment."
+      - repo: SWivid/F5-TTS
+        zh: "基于 Flow Matching 的零样本 TTS。"
+        en: "Zero-shot TTS based on flow matching."
+      - repo: QwenLM/Qwen3-TTS
+        zh: "通义 Qwen3-TTS，支持流式合成、自由描述音色设计和声音克隆。"
+        en: "Qwen3-TTS with streaming synthesis, free-form voice design and voice cloning."
+      - repo: SparkAudio/Spark-TTS
+        zh: "Spark-TTS 中英双语 TTS 与声音克隆。"
+        en: "Spark-TTS bilingual TTS and voice cloning."
+      - repo: boson-ai/higgs-audio
+        zh: "Boson AI 的文本-音频基础模型，表现力强。"
+        en: "Expressive text-audio foundation model from Boson AI."
+      - repo: bytedance/MegaTTS3
+        zh: "字节 MegaTTS 3，中英零样本语音合成。"
+        en: "ByteDance MegaTTS 3, zero-shot Chinese and English speech synthesis."
+      - repo: OpenMOSS/MOSS-TTSD
+        zh: "多说话人长对话合成，零样本克隆，适合角色对白。"
+        en: "Long-form multi-speaker dialogue synthesis with zero-shot cloning, good for character dialogue."
+
+  - id: lipsync
+    zh: "口型同步与对话视频"
+    en: "Lip sync and talking video"
+    zh_intro: "让角色张嘴说台词。InfiniteTalk / MultiTalk 支持长时长和多人对话，LivePortrait 适合表情驱动。"
+    en_intro: "Make characters deliver their lines. InfiniteTalk and MultiTalk handle long and multi-person dialogue; LivePortrait drives expressions."
+    items:
+      - repo: KlingAIResearch/LivePortrait
+        zh: "可灵团队的 LivePortrait，让静态人像动起来、驱动表情。"
+        en: "LivePortrait from the Kling team, animating portraits and driving expressions."
+      - repo: Rudrabha/Wav2Lip
+        zh: "经典的口型同步模型，生态成熟（较老，适合入门）。"
+        en: "Classic lip-sync model with a mature ecosystem (older, good to start with)."
+      - repo: MeiGen-AI/InfiniteTalk
+        zh: "不限时长的说话视频生成，支持图生视频和视频生视频。"
+        en: "Unlimited-length talking video for image-to-video and video-to-video."
+      - repo: TMElyralab/MuseTalk
+        zh: "实时高质量口型同步。"
+        en: "Real-time high-quality lip sync."
+      - repo: bytedance/LatentSync
+        zh: "字节 LatentSync，基于扩散模型的口型同步。"
+        en: "ByteDance LatentSync, diffusion-based lip sync."
+      - repo: jixiaozhong/Sonic
+        zh: "关注全局音频感知的人像动画。"
+        en: "Portrait animation driven by global audio perception."
+      - repo: MeiGen-AI/MultiTalk
+        zh: "音频驱动的多人对话视频生成。"
+        en: "Audio-driven multi-person conversational video generation."
+      - repo: Tencent-Hunyuan/HunyuanVideo-Avatar
+        zh: "混元视频数字人，音频驱动的多角色动画。"
+        en: "Hunyuan video avatar for audio-driven multi-character animation."
+      - repo: Fantasy-AMAP/fantasy-talking
+        zh: "动作连贯的说话人像生成。"
+        en: "Talking portrait generation with coherent motion."
+      - repo: fudan-generative-vision/hallo3
+        zh: "基于视频 DiT 的高动态人像动画。"
+        en: "Highly dynamic portrait animation built on a video diffusion transformer."
+      - repo: antgroup/echomimic_v3
+        zh: "蚂蚁 EchoMimic V3，1.3B 参数的多模态人体动画。"
+        en: "Ant Group EchoMimic V3, 1.3B multimodal human animation."
+
+  - id: audio
+    zh: "配乐与音效"
+    en: "Music and sound effects"
+    zh_intro: "背景音乐、主题曲和拟音音效。MMAudio、HunyuanVideo-Foley、ThinkSound 可以直接根据画面生成音效。"
+    en_intro: "Score, theme songs and Foley. MMAudio, HunyuanVideo-Foley and ThinkSound generate sound effects from the video itself."
+    items:
+      - repo: ace-step/ACE-Step-1.5
+        zh: "本地音乐生成模型，支持 Mac、AMD、Intel 和 CUDA。"
+        en: "Local music generation model for Mac, AMD, Intel and CUDA."
+      - repo: multimodal-art-projection/YuE
+        zh: "YuE 完整歌曲生成，支持翻唱和音乐编辑。"
+        en: "YuE full-song generation with covers and music editing."
+      - repo: fspecii/ace-step-ui
+        zh: "ACE-Step 1.5 的图形界面，免费本地生成音乐。"
+        en: "Desktop UI for ACE-Step 1.5, free local music generation."
+      - repo: HeartMuLa/heartlib
+        zh: "HeartMuLa 开源音乐生成模型。"
+        en: "HeartMuLa open music generation model."
+      - repo: ASLP-lab/DiffRhythm
+        zh: "快速的端到端整首歌曲生成。"
+        en: "Fast end-to-end full-length song generation."
+      - repo: hkchengrex/MMAudio
+        zh: "根据视频生成匹配的音频。"
+        en: "Video-to-audio synthesis."
+      - repo: QwenAudio/ThinkSound
+        zh: "通义 ThinkSound，用思维链从任意模态生成音频，可给画面配音效。"
+        en: "ThinkSound, chain-of-thought audio generation from any modality, including video."
+      - repo: Tencent-Hunyuan/HunyuanVideo-Foley
+        zh: "混元视频拟音，给画面配高保真音效。"
+        en: "Hunyuan Foley for high-fidelity sound effects from video."
+
+  - id: post
+    zh: "剪辑、字幕与后期"
+    en: "Editing, subtitles and post-production"
+    zh_intro: "出片以后的最后一公里：识别字幕、翻译出海、超分辨率、补帧和剪辑。"
+    en_intro: "The last mile after generation: transcription, translation for overseas release, upscaling, frame interpolation and editing."
+    items:
+      - repo: xinntao/Real-ESRGAN
+        zh: "通用的图像 / 视频超分辨率修复（较老，仍很常用）。"
+        en: "General image and video super-resolution (older but still widely used)."
+      - repo: SYSTRAN/faster-whisper
+        zh: "更快的 Whisper 语音识别，做字幕的基础组件。"
+        en: "Faster Whisper transcription, a building block for subtitles."
+      - repo: m-bain/whisperX
+        zh: "带词级时间戳和说话人分离的语音识别。"
+        en: "Speech recognition with word-level timestamps and diarization."
+      - repo: k4yt3x/video2x
+        zh: "基于机器学习的视频超分和补帧。"
+        en: "Machine-learning video upscaling and frame interpolation."
+      - repo: jianchang512/pyvideotrans
+        zh: "视频翻译，自动配音并嵌入字幕，适合短剧出海。"
+        en: "Translates videos with dubbing and embedded subtitles, useful for overseas release."
+      - repo: Huanshere/VideoLingo
+        zh: "Netflix 级字幕切分、翻译、对齐，还能配音，一键全自动。"
+        en: "Netflix-grade subtitle splitting, translation, alignment and dubbing in one click."
+      - repo: AaronFeng753/Waifu2x-Extension-GUI
+        zh: "视频 / 图片 / GIF 超分和补帧图形工具，集成 Real-ESRGAN、Real-CUGAN、RIFE 等，动漫画面效果好。"
+        en: "GUI for upscaling and interpolation with Real-ESRGAN, Real-CUGAN, RIFE and more; good for anime."
+      - repo: WEIFENG2333/VideoCaptioner
+        zh: "卡卡字幕助手，基于大模型做字幕生成、断句、校正和翻译。"
+        en: "LLM-powered subtitle generation, segmentation, correction and translation."
+      - repo: mltframework/shotcut
+        zh: "跨平台开源视频剪辑软件。"
+        en: "Cross-platform open-source video editor."
+      - repo: buxuku/SmartSub
+        zh: "视频转字幕、翻译、AI 配音与声音克隆、字幕烧录的一站式桌面工具。"
+        en: "Desktop app to transcribe, translate, dub and burn subtitles."
+      - repo: ByteDance-Seed/SeedVR
+        zh: "字节 SeedVR / SeedVR2，基于扩散模型的视频修复和超分。"
+        en: "ByteDance SeedVR and SeedVR2, diffusion-based video restoration and upscaling."
+      - repo: hzwer/Practical-RIFE
+        zh: "实用的视频补帧，提升流畅度。"
+        en: "Practical frame interpolation for smoother motion."
+
+  - id: narration
+    zh: "解说、推文与短视频二创"
+    en: "Narration, novel promos and short video"
+    zh_intro: "不做完整剧情，而是做影视解说、小说推文、高光切片的路线。"
+    en_intro: "For commentary videos, novel promos and highlight clips rather than full dramas."
+    items:
+      - repo: harry0703/MoneyPrinterTurbo
+        zh: "输入主题或关键词，一键生成高清短视频。"
+        en: "Generates HD short videos from a topic or keyword."
+      - repo: linyqh/NarratoAI
+        zh: "用大模型一键生成解说并剪辑视频，适合影视和短剧解说。"
+        en: "One-click AI narration and editing, suited to film and drama recaps."
+      - repo: liuzhao1225/YouDub-webui
+        zh: "视频翻译配音：语音识别、字幕翻译、声音克隆、混音渲染。"
+        en: "Video localization and dubbing with recognition, translation, voice cloning and mixing."
+      - repo: Agions/dramaxis
+        zh: "剧枢，多智能体影视叙事与解说平台，可与剪映草稿互通。"
+        en: "Multi-agent narrative and commentary platform that works with CapCut drafts."
+      - repo: tyxben/AI_novel
+        zh: "小说一键转短视频（有声书 + AI 配图），适用于抖音 / 小红书。"
+        en: "Turns novels into short videos with narration and AI images for Douyin and Xiaohongshu."
+
+  - id: comfyui
+    zh: "ComfyUI 生态"
+    en: "ComfyUI ecosystem"
+    zh_intro: "本地方案的核心。大多数开源视频、配音、口型模型都有 ComfyUI 节点。"
+    en_intro: "The core of most local setups; nearly every open video, voice and lip-sync model has ComfyUI nodes."
+    items:
+      - repo: Comfy-Org/ComfyUI
+        zh: "节点式扩散模型界面与后端，本地 AIGC 的事实标准。"
+        en: "Node-based diffusion GUI and backend, the de facto standard for local AIGC."
+      - repo: kijai/ComfyUI-WanVideoWrapper
+        zh: "在 ComfyUI 里使用万相等视频模型的封装节点。"
+        en: "ComfyUI wrapper nodes for Wan and related video models."
+      - repo: kijai/ComfyUI-LivePortraitKJ
+        zh: "LivePortrait 的 ComfyUI 节点。"
+        en: "ComfyUI nodes for LivePortrait."
+      - repo: Kosinkadink/ComfyUI-VideoHelperSuite
+        zh: "视频加载、合成、导出等常用视频节点。"
+        en: "Common video nodes for loading, combining and exporting."
+      - repo: Fannovel16/ComfyUI-Frame-Interpolation
+        zh: "ComfyUI 补帧节点。"
+        en: "Frame interpolation nodes for ComfyUI."
+      - repo: JGRFW/comfyui-AICG3D
+        zh: "ComfyUI 本地短剧工作台插件，支持长视频生成。"
+        en: "Local short-drama workspace plugin for ComfyUI with long-video generation."
+
+  - id: prompts
+    zh: "提示词与案例库"
+    en: "Prompt and case libraries"
+    zh_intro: "抄作业专区。"
+    en_intro: "Copy what already works."
+    items:
+      - repo: ai-boost/awesome-image-video-prompts
+        zh: "主流图像 / 视频模型的可复制提示词，附真实输出和出处。"
+        en: "Copy-ready prompts for leading image and video models, with real outputs and sources."
+      - repo: ZeroLu/awesome-seedance
+        zh: "Seedance 2.0 高质量提示词与资源，覆盖电影、动漫、广告等场景。"
+        en: "High-fidelity Seedance 2.0 prompts and resources for film, anime and ads."
+      - repo: LearnPrompt/awesome-seedance
+        zh: "有出处可查的 Seedance 提示词库，带跨模型复测和模板，中英日三语。"
+        en: "Source-traced Seedance prompt library with cross-model retests and templates in three languages."
+
+platforms_zh: "商用模型与平台（非开源）"
+platforms_en: "Commercial models and platforms (not open source)"
+platforms_intro_zh: "不想折腾本地部署时最快的出片方式。功能和价格变化快，以官网为准。"
+platforms_intro_en: "The fastest way to get footage without a local setup. Features and pricing change often, so check each site."
+platforms:
+  - name: "即梦 AI"
+    name_en: "Jimeng AI (ByteDance)"
+    url: https://jimeng.jianying.com/
+    zh: "字节跳动出品，集成 Seedream 生图和 Seedance 视频模型。"
+    en: "ByteDance's creation platform with the Seedream image and Seedance video models."
+  - name: "可灵 AI"
+    name_en: "Kling AI (Kuaishou)"
+    url: https://klingai.com/
+    zh: "快手出品的视频生成平台。"
+    en: "Kuaishou's video generation platform."
+  - name: "海螺 AI"
+    name_en: "Hailuo AI (MiniMax)"
+    url: https://hailuoai.com/
+    zh: "MiniMax 出品，以视频生成为核心。"
+    en: "MiniMax's creation app centred on video generation."
+  - name: "Vidu"
+    name_en: "Vidu (Shengshu)"
+    url: https://www.vidu.cn/
+    zh: "生数科技出品，支持参考生视频、文生视频和图生视频。"
+    en: "Shengshu's platform for reference-, text- and image-to-video."
+  - name: "万相（阿里云百炼 API）"
+    name_en: "Wan via Alibaba Cloud Model Studio"
+    url: https://help.aliyun.com/zh/model-studio/video-generation
+    zh: "阿里万相视频模型的官方 API，含文生视频、图生视频、参考生视频、视频编辑和数字人。"
+    en: "Official API for Alibaba's Wan video models, including reference-to-video, editing and avatars."
+  - name: "PixVerse"
+    name_en: "PixVerse"
+    url: https://pixverse.ai/
+    zh: "爱诗科技出品的视频生成平台。"
+    en: "AISHI Technology's video generation platform."
+  - name: "RunningHub"
+    name_en: "RunningHub"
+    url: https://www.runninghub.ai/
+    zh: "云端 ComfyUI，不用本地显卡也能跑开源视频工作流，可通过 API 调用。"
+    en: "Cloud ComfyUI for running open video workflows without a local GPU, with an API."
+
+compliance:
+  - title_zh: "《人工智能生成合成内容标识办法》"
+    title_en: "Measures for Labeling AI-Generated Synthetic Content"
+    url: https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm
+    zh: "国家网信办等四部门发布，2025 年 9 月 1 日起施行。AI 生成的视频、音频需要添加显式标识和元数据隐式标识，不得恶意删除或篡改标识。"
+    en: "Issued by the CAC and three other authorities, in force since 1 September 2025. AI-generated video and audio need visible labels and metadata labels, which must not be removed or altered."
+  - title_zh: "《微短剧发展管理办法》（国家广播电视总局令第 16 号）"
+    title_en: "Micro-Drama Development Management Measures (NRTA Order No. 16)"
+    url: https://www.news.cn/legal/20260731/4b8eea40226644d0a347c72ea1b21b75/c.html
+    zh: "2026 年 9 月 1 日起施行，按投资额度、题材把微短剧分为三类，分类实行备案公示和发行许可。"
+    en: "In force since 1 September 2026; micro-dramas are split into three classes by budget and subject, each with filing and distribution licensing."
+  - title_zh: "《管理提示（AI 微短剧分类分层标准）》"
+    title_en: "Notice on tiers for AI micro-dramas"
+    url: https://m.163.com/dy/article/L0B868QC053469RG.html
+    zh: "广电总局网络视听司 2026 年 6 月 25 日发布、7 月 1 日起施行：投资 80 万元及以上或涉及特殊题材为\"重点\"，30 至 80 万元一般题材为\"普通\"，不足 30 万元一般题材为\"其他\"。（链接为央视新闻稿件转载）"
+    en: "Published by the NRTA on 25 June 2026 and effective 1 July 2026; AI micro-dramas are tiered by budget (800k CNY and above or special subjects, 300k to 800k, under 300k). Link is a CCTV News report."
+
+related:
+  - repo: UnderleveledBuilder/awesome-short-drama-skills
+    zh: "AI 短剧 · 漫剧 Skill 精选（只收技能包）。"
+    en: "Curated AI drama agent skills."
+  - repo: JuneYaooo/awesome-ai-media-cn
+    zh: "AI 视频制作与自媒体运营工具合集。"
+    en: "AI video production and social media tools."
+  - repo: zhaotoday/awesome-ai-video
+    zh: "AI 视频生产资源索引。"
+    en: "Index of AI video production resources."

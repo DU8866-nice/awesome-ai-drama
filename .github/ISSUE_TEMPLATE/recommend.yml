@@ -1,0 +1,38 @@
+name: 推荐项目 / Recommend a project
+description: 推荐一个 AI 短剧 / 漫剧相关的开源项目 / Suggest an open-source project for AI drama production
+title: "[推荐] "
+labels: ["recommendation"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub 仓库 / Repository
+      placeholder: owner/name
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 分类 / Category
+      options:
+        - 一站式创作平台 / All-in-one studio
+        - Agent Skills
+        - 视频生成模型 / Video model
+        - 角色一致性与图像 / Character consistency
+        - 配音 TTS / Voice
+        - 口型同步 / Lip sync
+        - 配乐音效 / Music & SFX
+        - 剪辑字幕后期 / Post-production
+        - 解说推文 / Narration
+        - ComfyUI
+        - 提示词 / Prompts
+        - 其他 / Other
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 推荐理由 / Why
+      description: 它解决了制作流程中的哪个问题？你实际用过吗？ / What step does it help with? Have you used it?
+    validations:
+      required: true

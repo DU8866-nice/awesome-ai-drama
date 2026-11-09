@@ -1,0 +1,27 @@
+name: Link check
+
+on:
+  push:
+    paths: ["README.md", "README.en.md"]
+  pull_request:
+  schedule:
+    - cron: "43 2 * * 3"
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --accept 200,206,403,429
+            --max-retries 3
+            --timeout 30
+            --exclude "api.star-history.com"
+            --exclude "img.shields.io"
+            README.md README.en.md CONTRIBUTING.md
+          fail: false
