@@ -91,7 +91,7 @@ TEXT = {
             "并附上国内发布前必须知道的合规规定。"
         ),
         "flow_title": "## 制作流程一览",
-        "flow": "```mermaid\nflowchart LR\n  A[剧本 / 小说改编] --> B[分镜脚本]\n  B --> C[角色与场景资产]\n  C --> D[图生视频]\n  D --> E[配音与口型]\n  E --> F[配乐与音效]\n  F --> G[剪辑 · 字幕 · 超分]\n  G --> H[标识与备案后发布]\n```",
+        "flow": "```mermaid\nflowchart TB\n  subgraph P1 [前期]\n    direction LR\n    A[剧本 / 小说改编] --> B[分镜脚本] --> C[角色与场景资产] --> D[图生视频]\n  end\n  subgraph P2 [后期]\n    direction LR\n    E[配音与口型] --> F[配乐与音效] --> G[剪辑 · 字幕 · 超分] --> H[标识与备案后发布]\n  end\n  P1 --> P2\n```",
         "start_title": "## 快速上手：选一条路线",
         "start": (
             "| 路线 | 适合谁 | 推荐组合 |\n|---|---|---|\n"
@@ -131,7 +131,7 @@ TEXT = {
             "ordered by production stage, plus the Chinese rules you need to know before publishing."
         ),
         "flow_title": "## Production pipeline",
-        "flow": "```mermaid\nflowchart LR\n  A[Script / adaptation] --> B[Storyboard]\n  B --> C[Character & scene assets]\n  C --> D[Image-to-video]\n  D --> E[Voice & lip sync]\n  E --> F[Music & SFX]\n  F --> G[Edit · subtitles · upscale]\n  G --> H[Label, file, publish]\n```",
+        "flow": "```mermaid\nflowchart TB\n  subgraph P1 [Pre-production]\n    direction LR\n    A[Script / adaptation] --> B[Storyboard] --> C[Character & scene assets] --> D[Image-to-video]\n  end\n  subgraph P2 [Post-production]\n    direction LR\n    E[Voice & lip sync] --> F[Music & SFX] --> G[Edit · subtitles · upscale] --> H[Label, file, publish]\n  end\n  P1 --> P2\n```",
         "start_title": "## Quick start: pick a route",
         "start": (
             "| Route | For | Suggested stack |\n|---|---|---|\n"

@@ -13,14 +13,16 @@ AI dramas now make up most of China's micro-drama output: an [article on The Pap
 ## Production pipeline
 
 ```mermaid
-flowchart LR
-  A[Script / adaptation] --> B[Storyboard]
-  B --> C[Character & scene assets]
-  C --> D[Image-to-video]
-  D --> E[Voice & lip sync]
-  E --> F[Music & SFX]
-  F --> G[Edit · subtitles · upscale]
-  G --> H[Label, file, publish]
+flowchart TB
+  subgraph P1 [Pre-production]
+    direction LR
+    A[Script / adaptation] --> B[Storyboard] --> C[Character & scene assets] --> D[Image-to-video]
+  end
+  subgraph P2 [Post-production]
+    direction LR
+    E[Voice & lip sync] --> F[Music & SFX] --> G[Edit · subtitles · upscale] --> H[Label, file, publish]
+  end
+  P1 --> P2
 ```
 
 ## Quick start: pick a route
