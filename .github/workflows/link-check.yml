@@ -18,6 +18,7 @@ jobs:
         with:
           args: >-
             --no-progress
+            --verbose
             --accept 200,206,403,429
             --max-retries 3
             --timeout 30

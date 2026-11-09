@@ -164,7 +164,7 @@ def build(lang: str, data: dict, stats: dict, today: dt.date) -> str:
     t = TEXT[lang]
     snapshot = max((v["fetched"] for v in stats.values() if v.get("fetched")), default=today.isoformat())
     badges = (
-        f"[![Stars](https://img.shields.io/github/stars/{REPO}?style=flat-square)](https://github.com/{REPO}/stargazers) "
+        f"[![Stars](https://img.shields.io/github/stars/{REPO}?style=flat-square)](https://github.com/{REPO}) "
         f"[![Last commit](https://img.shields.io/github/last-commit/{REPO}?style=flat-square)](https://github.com/{REPO}/commits) "
         f"[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](LICENSE) "
         f"[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)"

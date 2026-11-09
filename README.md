@@ -1,6 +1,6 @@
 # Awesome AI Drama · AI 短剧 / 漫剧开源工具大全
 
-[![Stars](https://img.shields.io/github/stars/DU8866-nice/awesome-ai-drama?style=flat-square)](https://github.com/DU8866-nice/awesome-ai-drama/stargazers) [![Last commit](https://img.shields.io/github/last-commit/DU8866-nice/awesome-ai-drama?style=flat-square)](https://github.com/DU8866-nice/awesome-ai-drama/commits) [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+[![Stars](https://img.shields.io/github/stars/DU8866-nice/awesome-ai-drama?style=flat-square)](https://github.com/DU8866-nice/awesome-ai-drama) [![Last commit](https://img.shields.io/github/last-commit/DU8866-nice/awesome-ai-drama?style=flat-square)](https://github.com/DU8866-nice/awesome-ai-drama/commits) [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square)](LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 **简体中文** | [English](README.en.md)
 

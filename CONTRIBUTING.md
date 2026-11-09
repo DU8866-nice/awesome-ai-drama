@@ -27,7 +27,7 @@
    python scripts/build_readme.py
    ```
 
-3. 提 PR，说明为什么推荐它。不方便改文件的话，直接[提 Issue 推荐](../../issues/new/choose)也可以。
+3. 提 PR，说明为什么推荐它。不方便改文件的话，直接[提 Issue 推荐](https://github.com/DU8866-nice/awesome-ai-drama/issues/new/choose)也可以。
 
 说明请用自己的话写，客观描述功能，不要照搬宣传语或写"最强""第一"之类的词。
 
@@ -44,6 +44,6 @@
 
 1. Edit only [`data/tools.yaml`](data/tools.yaml) and add an entry under the right category (`repo`, `zh`, `en`).
 2. Run `python scripts/build_readme.py` (optionally `scripts/update_stats.py` with a `GITHUB_TOKEN` first).
-3. Open a PR explaining why the project belongs here, or [open an issue](../../issues/new/choose) instead.
+3. Open a PR explaining why the project belongs here, or [open an issue](https://github.com/DU8866-nice/awesome-ai-drama/issues/new/choose) instead.
 
 Describe what the project does in plain words; skip marketing superlatives.
