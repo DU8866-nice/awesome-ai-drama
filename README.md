@@ -27,7 +27,7 @@ flowchart LR
 
 | 路线 | 适合谁 | 推荐组合 |
 |---|---|---|
-| 零代码 | 想最快出片 | [即梦 AI](https://jimeng.jianying.com/) / [可灵 AI](https://klingai.com/) 出镜头 + [IndexTTS](https://github.com/index-tts/index-tts) 配音 + [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) 字幕 |
+| 零代码 | 想最快出片 | [即梦 AI](https://jimeng.jianying.com/) / [可灵 AI](https://kling.ai/) 出镜头 + [IndexTTS](https://github.com/index-tts/index-tts) 配音 + [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) 字幕 |
 | 一站式开源平台 | 想要完整工作台、可自部署 | [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) 或 [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama)，接入自己的模型 Key |
 | 全本地 | 有显卡、想控制每一步 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) + [Wan2.2](https://github.com/Wan-Video/Wan2.2) + [Qwen-Image](https://github.com/QwenLM/Qwen-Image) 做角色图 + [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) + [InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) 对口型 |
 | Agent 工作流 | 用 Claude Code / Codex 写剧本分镜 | [shuohao-skills](https://github.com/eternityspring/shuohao-skills) 或 [drama-skills](https://github.com/zenstory-ai/drama-skills) 出剧本和分镜，再交给任意视频模型 |
@@ -255,10 +255,10 @@ flowchart LR
 | 平台 | 说明 |
 |---|---|
 | [即梦 AI](https://jimeng.jianying.com/) | 字节跳动出品，集成 Seedream 生图和 Seedance 视频模型。 |
-| [可灵 AI](https://klingai.com/) | 快手出品的视频生成平台。 |
+| [可灵 AI](https://kling.ai/) | 快手出品的视频生成平台。 |
 | [海螺 AI](https://hailuoai.com/) | MiniMax 出品，以视频生成为核心。 |
 | [Vidu](https://www.vidu.cn/) | 生数科技出品，支持参考生视频、文生视频和图生视频。 |
-| [万相（阿里云百炼 API）](https://help.aliyun.com/zh/model-studio/video-generation) | 阿里万相视频模型的官方 API，含文生视频、图生视频、参考生视频、视频编辑和数字人。 |
+| [万相（阿里云百炼 API）](https://help.aliyun.com/zh/model-studio/video-generate-edit-model/) | 阿里万相视频模型的官方 API，含文生视频、图生视频、参考生视频、视频编辑和数字人。 |
 | [PixVerse](https://pixverse.ai/) | 爱诗科技出品的视频生成平台。 |
 | [RunningHub](https://www.runninghub.ai/) | 云端 ComfyUI，不用本地显卡也能跑开源视频工作流，可通过 API 调用。 |
 

@@ -27,7 +27,7 @@ flowchart LR
 
 | Route | For | Suggested stack |
 |---|---|---|
-| No code | Fastest results | [Jimeng](https://jimeng.jianying.com/) or [Kling](https://klingai.com/) for shots + [IndexTTS](https://github.com/index-tts/index-tts) for voice + [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) for subtitles |
+| No code | Fastest results | [Jimeng](https://jimeng.jianying.com/) or [Kling](https://kling.ai/) for shots + [IndexTTS](https://github.com/index-tts/index-tts) for voice + [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) for subtitles |
 | All-in-one open studio | A full workspace you can self-host | [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) or [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) with your own model keys |
 | Fully local | You have a GPU and want control | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) + [Wan2.2](https://github.com/Wan-Video/Wan2.2) + [Qwen-Image](https://github.com/QwenLM/Qwen-Image) for character sheets + [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) + [InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) for lip sync |
 | Agent workflow | Claude Code or Codex writes scripts and shots | [shuohao-skills](https://github.com/eternityspring/shuohao-skills) or [drama-skills](https://github.com/zenstory-ai/drama-skills), then any video model |
@@ -255,10 +255,10 @@ The fastest way to get footage without a local setup. Features and pricing chang
 | Platform | Description |
 |---|---|
 | [Jimeng AI (ByteDance)](https://jimeng.jianying.com/) | ByteDance's creation platform with the Seedream image and Seedance video models. |
-| [Kling AI (Kuaishou)](https://klingai.com/) | Kuaishou's video generation platform. |
+| [Kling AI (Kuaishou)](https://kling.ai/) | Kuaishou's video generation platform. |
 | [Hailuo AI (MiniMax)](https://hailuoai.com/) | MiniMax's creation app centred on video generation. |
 | [Vidu (Shengshu)](https://www.vidu.cn/) | Shengshu's platform for reference-, text- and image-to-video. |
-| [Wan via Alibaba Cloud Model Studio](https://help.aliyun.com/zh/model-studio/video-generation) | Official API for Alibaba's Wan video models, including reference-to-video, editing and avatars. |
+| [Wan via Alibaba Cloud Model Studio](https://help.aliyun.com/zh/model-studio/video-generate-edit-model/) | Official API for Alibaba's Wan video models, including reference-to-video, editing and avatars. |
 | [PixVerse](https://pixverse.ai/) | AISHI Technology's video generation platform. |
 | [RunningHub](https://www.runninghub.ai/) | Cloud ComfyUI for running open video workflows without a local GPU, with an API. |
 

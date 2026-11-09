@@ -95,7 +95,7 @@ TEXT = {
         "start_title": "## 快速上手：选一条路线",
         "start": (
             "| 路线 | 适合谁 | 推荐组合 |\n|---|---|---|\n"
-            "| 零代码 | 想最快出片 | [即梦 AI](https://jimeng.jianying.com/) / [可灵 AI](https://klingai.com/) 出镜头 + "
+            "| 零代码 | 想最快出片 | [即梦 AI](https://jimeng.jianying.com/) / [可灵 AI](https://kling.ai/) 出镜头 + "
             "[IndexTTS](https://github.com/index-tts/index-tts) 配音 + [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) 字幕 |\n"
             "| 一站式开源平台 | 想要完整工作台、可自部署 | [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) 或 "
             "[LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama)，接入自己的模型 Key |\n"
@@ -135,7 +135,7 @@ TEXT = {
         "start_title": "## Quick start: pick a route",
         "start": (
             "| Route | For | Suggested stack |\n|---|---|---|\n"
-            "| No code | Fastest results | [Jimeng](https://jimeng.jianying.com/) or [Kling](https://klingai.com/) for shots + "
+            "| No code | Fastest results | [Jimeng](https://jimeng.jianying.com/) or [Kling](https://kling.ai/) for shots + "
             "[IndexTTS](https://github.com/index-tts/index-tts) for voice + [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) for subtitles |\n"
             "| All-in-one open studio | A full workspace you can self-host | [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) or "
             "[LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) with your own model keys |\n"

@@ -446,7 +446,7 @@ platforms:
     en: "ByteDance's creation platform with the Seedream image and Seedance video models."
   - name: "可灵 AI"
     name_en: "Kling AI (Kuaishou)"
-    url: https://klingai.com/
+    url: https://kling.ai/
     zh: "快手出品的视频生成平台。"
     en: "Kuaishou's video generation platform."
   - name: "海螺 AI"
@@ -461,7 +461,7 @@ platforms:
     en: "Shengshu's platform for reference-, text- and image-to-video."
   - name: "万相（阿里云百炼 API）"
     name_en: "Wan via Alibaba Cloud Model Studio"
-    url: https://help.aliyun.com/zh/model-studio/video-generation
+    url: https://help.aliyun.com/zh/model-studio/video-generate-edit-model/
     zh: "阿里万相视频模型的官方 API，含文生视频、图生视频、参考生视频、视频编辑和数字人。"
     en: "Official API for Alibaba's Wan video models, including reference-to-video, editing and avatars."
   - name: "PixVerse"
