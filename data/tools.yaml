@@ -136,6 +136,9 @@ categories:
       - repo: Wan-Video/Wan-skills
         zh: "万相官方 Agent Skills，让智能体直接调用 Wan 的生成能力。"
         en: "Official Wan agent skills for calling Wan generation from your agent."
+      - repo: Alwzc/alphadrama-short-drama-skill
+        zh: "网文与剧本转 60 秒竖屏短剧的 Agent Skill，支持三视图角色锁定与多模型分镜提示词（Seedance、海螺、可灵、万相）。"
+        en: "Agent skill that turns web novels and scripts into 60-second vertical short-drama episodes with three-view character locking and multi-model prompts."
 
   - id: video-models
     zh: "开源视频生成模型"
@@ -474,6 +477,11 @@ platforms:
     url: https://www.runninghub.ai/
     zh: "云端 ComfyUI，不用本地显卡也能跑开源视频工作流，可通过 API 调用。"
     en: "Cloud ComfyUI for running open video workflows without a local GPU, with an API."
+  - name: "光梦 AlphaDrama"
+    name_en: "AlphaDrama"
+    url: https://www.getalphadrama.com/
+    zh: "AI 短剧与漫剧全流程制作 SaaS 平台，覆盖小说拆解、剧本改写、角色资产提取、分镜拆解与生图生视频混剪成片（国内镜像 ad.yosweet.cn）。"
+    en: "End-to-end SaaS workspace for AI short dramas and motion comics, covering script adaptation, character assets, storyboarding, image/video generation and final cut assembly."
 
 compliance:
   - title_zh: "《人工智能生成合成内容标识办法》"

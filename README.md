@@ -85,7 +85,7 @@ flowchart TB
 | [KomaSlate](https://github.com/xeronsh/KomaSlate) | 本地优先、非破坏性的 AI 分镜工作台，支持重拍镜头、版本对比和 FCPXML 导出。 | 413 | 2026-11 |
 | [novelvids](https://github.com/Anning01/novelvids) | AI 漫剧与短剧创作工作台，覆盖故事创作、角色资产、分镜和出图出视频，支持本地部署。 | 362 | 2026-11 |
 | [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | 免费轻量的 AI 无限画布，支持短剧剧本、角色、分镜、出图出视频和剪辑，集成 ComfyUI、Agent、MCP。 | 343 | 2026-11 |
-| [Kinema](https://github.com/chillzhuang/Kinema) 🆕 | 由 Codex、Claude Code 驱动的影像智能体，管理章节与分镜规划、角色场景道具资产，直到成片。 | 242 | 2026-09 |
+| [Kinema](https://github.com/chillzhuang/Kinema) | 由 Codex、Claude Code 驱动的影像智能体，管理章节与分镜规划、角色场景道具资产，直到成片。 | 242 | 2026-09 |
 
 ## Agent Skills（剧本 · 分镜 · 提示词）
 
@@ -99,7 +99,7 @@ flowchart TB
 | [drama-skills](https://github.com/zenstory-ai/drama-skills) | 小说改剧本、角色三视图、分镜脚本、生图生视频提示词和成片审片。 | 4.0k | 2026-11 |
 | [seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) | 生成 Seedance 2.0 视频提示词的 Skill。 | 3.0k | 2026-02 |
 | [Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) | 把小说或故事转成多集视频剧本和分镜，针对 Seedance 2.0 设计。 | 2.8k | 2026-10 |
-| [manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) 🆕 | 漫剧全流程套装：1 个总控 + 12 个子技能，覆盖素材、剧本、资产、分镜和质检。 | 2.0k | 2026-11 |
+| [manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) | 漫剧全流程套装：1 个总控 + 12 个子技能，覆盖素材、剧本、资产、分镜和质检。 | 2.0k | 2026-11 |
 | [short-drama](https://github.com/0xsline/short-drama) | 短剧剧本创作 Skill，从选题立项、分集撰写到质量自检、合规审核和出海。 | 1.6k | 2026-04 |
 | [ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) 🆕 | 21 个题材的 AI 漫剧全流程 Skill，一句点子生成企划、资产提示词、分集剧本、分镜和视频提示词。 | 630 | 2026-11 |
 | [short-drama-factory](https://github.com/lixiaoxiao9888-create/short-drama-factory) | 面向抖音 / 红果的工业化短剧编剧系统，网文或创意改成 30 至 100 集剧本。 | 564 | 2026-10 |
@@ -108,6 +108,7 @@ flowchart TB
 | [Micro-Drama-Skills](https://github.com/zhaihao118/Micro-Drama-Skills) | 用 Claude Skills 串起剧本、角色设计、分镜生成到视频提交的短剧自动化流程。 | 331 | 2026-02 |
 | [story-shot-agent](https://github.com/neopen/story-shot-agent) | 剧本分镜智能体，把任意格式剧本拆成镜头片段并生成跨片段一致的视频提示词。 | 239 | 2026-11 |
 | [Wan-skills](https://github.com/Wan-Video/Wan-skills) | 万相官方 Agent Skills，让智能体直接调用 Wan 的生成能力。 | 77 | 2026-04 |
+| [alphadrama-short-drama-skill](https://github.com/Alwzc/alphadrama-short-drama-skill) | 网文与剧本转 60 秒竖屏短剧的 Agent Skill，支持三视图角色锁定与多模型分镜提示词（Seedance、海螺、可灵、万相）。 | - | - |
 
 ## 开源视频生成模型
 
@@ -263,6 +264,7 @@ flowchart TB
 | [万相（阿里云百炼 API）](https://help.aliyun.com/zh/model-studio/video-generate-edit-model/) | 阿里万相视频模型的官方 API，含文生视频、图生视频、参考生视频、视频编辑和数字人。 |
 | [PixVerse](https://pixverse.ai/) | 爱诗科技出品的视频生成平台。 |
 | [RunningHub](https://www.runninghub.ai/) | 云端 ComfyUI，不用本地显卡也能跑开源视频工作流，可通过 API 调用。 |
+| [光梦 AlphaDrama](https://www.getalphadrama.com/) | AI 短剧与漫剧全流程制作 SaaS 平台，覆盖小说拆解、剧本改写、角色资产提取、分镜拆解与生图生视频混剪成片（国内镜像 ad.yosweet.cn）。 |
 
 ## 合规与发布（中国大陆）
 
