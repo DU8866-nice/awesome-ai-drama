@@ -85,7 +85,7 @@ Open-source workspaces that take a novel or a one-line idea through script, char
 | [KomaSlate](https://github.com/xeronsh/KomaSlate) | Local-first, non-destructive AI storyboarding workspace with shot retakes, version diffs and FCPXML export. | 413 | 2026-11 |
 | [novelvids](https://github.com/Anning01/novelvids) | Self-hostable AI drama workspace covering story, character assets, storyboards and generation. | 362 | 2026-11 |
 | [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | Free, lightweight AI canvas for drama scripts, characters, storyboards, generation and editing, with ComfyUI, agents and MCP. | 343 | 2026-11 |
-| [Kinema](https://github.com/chillzhuang/Kinema) 🆕 | Video agent driven by Codex or Claude Code that plans chapters and shots and manages assets through to the final film. | 242 | 2026-09 |
+| [Kinema](https://github.com/chillzhuang/Kinema) | Video agent driven by Codex or Claude Code that plans chapters and shots and manages assets through to the final film. | 242 | 2026-09 |
 
 ## Agent skills (script, storyboard, prompts)
 
@@ -99,7 +99,7 @@ Skill packs for Claude Code, Codex, DeepSeek Harness and similar agents, for peo
 | [drama-skills](https://github.com/zenstory-ai/drama-skills) | Novel-to-script, character turnarounds, shot lists, generation prompts and final-cut review. | 4.0k | 2026-11 |
 | [seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) | Skill that writes Seedance 2.0 video prompts. | 3.0k | 2026-02 |
 | [Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) | Turns novels and stories into multi-episode scripts and storyboards designed for Seedance 2.0. | 2.8k | 2026-10 |
-| [manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) 🆕 | Manga-drama suite with one director skill and 12 sub-skills for research, script, assets, shots and QA. | 2.0k | 2026-11 |
+| [manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) | Manga-drama suite with one director skill and 12 sub-skills for research, script, assets, shots and QA. | 2.0k | 2026-11 |
 | [short-drama](https://github.com/0xsline/short-drama) | Short-drama screenwriting skill from concept and episodes to self-review, compliance and overseas release. | 1.6k | 2026-04 |
 | [ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) 🆕 | AI manga-drama skills across 21 genres, from one idea to plan, asset prompts, episodes, shots and video prompts. | 630 | 2026-11 |
 | [short-drama-factory](https://github.com/lixiaoxiao9888-create/short-drama-factory) | Industrial short-drama screenwriting system that turns an idea or web novel into a 30 to 100 episode script. | 564 | 2026-10 |
@@ -108,6 +108,7 @@ Skill packs for Claude Code, Codex, DeepSeek Harness and similar agents, for peo
 | [Micro-Drama-Skills](https://github.com/zhaihao118/Micro-Drama-Skills) | Claude Skills that automate a micro-drama workflow from script and characters to storyboards and video jobs. | 331 | 2026-02 |
 | [story-shot-agent](https://github.com/neopen/story-shot-agent) | Agent that splits any script into shots and writes consistent text-to-video prompts across them. | 239 | 2026-11 |
 | [Wan-skills](https://github.com/Wan-Video/Wan-skills) | Official Wan agent skills for calling Wan generation from your agent. | 77 | 2026-04 |
+| [alphadrama-short-drama-skill](https://github.com/Alwzc/alphadrama-short-drama-skill) | Agent skill that turns web novels and scripts into 60-second vertical short-drama episodes with three-view character locking and multi-model prompts. | - | - |
 
 ## Open video generation models
 
@@ -263,6 +264,7 @@ The fastest way to get footage without a local setup. Features and pricing chang
 | [Wan via Alibaba Cloud Model Studio](https://help.aliyun.com/zh/model-studio/video-generate-edit-model/) | Official API for Alibaba's Wan video models, including reference-to-video, editing and avatars. |
 | [PixVerse](https://pixverse.ai/) | AISHI Technology's video generation platform. |
 | [RunningHub](https://www.runninghub.ai/) | Cloud ComfyUI for running open video workflows without a local GPU, with an API. |
+| [AlphaDrama](https://www.getalphadrama.com/) | End-to-end SaaS workspace for AI short dramas and motion comics, covering script adaptation, character assets, storyboarding, image/video generation and final cut assembly. |
 
 ## Rules for publishing in mainland China
 
