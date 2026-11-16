@@ -2,119 +2,119 @@
  "0xsline/StoryGen-Atelier": {
   "archived": false,
   "created": "2025-12-03",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-09-17",
-  "stars": 1009
+  "stars": 1018
  },
  "0xsline/short-drama": {
   "archived": false,
   "created": "2026-03-02",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-04-17",
-  "stars": 1585
+  "stars": 1634
  },
  "A-cat-with-carrots/OnlyShot": {
   "archived": false,
   "created": "2026-05-05",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-07-07",
-  "stars": 399
+  "pushed": "2026-11-12",
+  "stars": 415
  },
  "ASLP-lab/DiffRhythm": {
   "archived": false,
   "created": "2025-02-23",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2025-11-27",
-  "stars": 2359
+  "stars": 2361
  },
  "AaronFeng753/Waifu2x-Extension-GUI": {
   "archived": false,
   "created": "2020-01-20",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
-  "pushed": "2026-11-02",
-  "stars": 17200
+  "pushed": "2026-11-10",
+  "stars": 17230
  },
  "Agions/dramaxis": {
   "archived": false,
   "created": "2025-02-28",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-10-27",
-  "stars": 457
+  "pushed": "2026-11-16",
+  "stars": 461
  },
  "Anil-matcha/Open-AI-Micro-Drama-Generator": {
   "archived": false,
   "created": "2023-06-14",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
   "pushed": "2026-08-02",
-  "stars": 569
+  "stars": 580
  },
  "Anning01/novelvids": {
   "archived": false,
   "created": "2026-02-03",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-08",
-  "stars": 362
+  "pushed": "2026-11-15",
+  "stars": 374
  },
  "ArcReel/ArcReel": {
   "archived": false,
   "created": "2026-02-07",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "AGPL-3.0",
-  "pushed": "2026-11-09",
-  "stars": 6334
+  "pushed": "2026-11-16",
+  "stars": 6580
  },
  "ByteDance-Seed/SeedVR": {
   "archived": false,
   "created": "2025-06-10",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-01-27",
-  "stars": 1438
+  "stars": 1451
  },
  "ChrisChen667788/wind-comic": {
   "archived": false,
   "created": "2026-04-26",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-08",
-  "stars": 707
+  "pushed": "2026-11-15",
+  "stars": 718
  },
  "Comfy-Org/ComfyUI": {
   "archived": false,
   "created": "2023-01-17",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "GPL-3.0",
-  "pushed": "2026-11-09",
-  "stars": 145815
+  "pushed": "2026-11-16",
+  "stars": 147090
  },
  "Emily2040/seedance-2.0": {
   "archived": false,
   "created": "2026-02-25",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-10-03",
-  "stars": 8094
+  "stars": 8197
  },
  "Fannovel16/ComfyUI-Frame-Interpolation": {
   "archived": false,
   "created": "2023-07-31",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-03-29",
-  "stars": 1093
+  "stars": 1095
  },
  "Fantasy-AMAP/fantasy-talking": {
   "archived": false,
   "created": "2025-04-02",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-01-26",
   "stars": 1629
@@ -122,615 +122,615 @@
  "Forget-C/Jellyfish": {
   "archived": false,
   "created": "2026-03-06",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-07-30",
-  "stars": 7148
+  "stars": 7194
  },
  "HBAI-Ltd/Toonflow-app": {
   "archived": false,
   "created": "2026-01-29",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-05",
-  "stars": 21111
+  "pushed": "2026-11-16",
+  "stars": 21949
  },
  "HeartMuLa/heartlib": {
   "archived": false,
   "created": "2026-01-15",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
-  "pushed": "2026-10-08",
-  "stars": 3788
+  "pushed": "2026-11-15",
+  "stars": 3798
  },
  "Huanshere/VideoLingo": {
   "archived": false,
   "created": "2024-08-09",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
-  "pushed": "2026-09-30",
-  "stars": 19120
+  "pushed": "2026-11-13",
+  "stars": 19277
  },
  "JGRFW/comfyui-AICG3D": {
   "archived": false,
   "created": "2026-09-12",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "GPL-3.0",
-  "pushed": "2026-11-04",
-  "stars": 483
+  "pushed": "2026-11-15",
+  "stars": 579
  },
  "JuneYaooo/awesome-ai-media-cn": {
   "archived": false,
   "created": "2026-04-19",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
-  "pushed": "2026-11-03",
-  "stars": 370
+  "pushed": "2026-11-12",
+  "stars": 397
  },
  "KlingAIResearch/LivePortrait": {
   "archived": false,
   "created": "2024-07-03",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2026-06-01",
-  "stars": 19433
+  "stars": 19497
  },
  "Kosinkadink/ComfyUI-VideoHelperSuite": {
   "archived": false,
   "created": "2023-09-23",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "GPL-3.0",
   "pushed": "2026-09-02",
-  "stars": 1912
+  "stars": 1920
  },
  "LearnPrompt/awesome-seedance": {
   "archived": false,
   "created": "2026-08-26",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-09",
-  "stars": 2482
+  "pushed": "2026-11-15",
+  "stars": 2550
  },
  "Lightricks/LTX-2": {
   "archived": false,
   "created": "2026-01-03",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
-  "pushed": "2026-11-05",
-  "stars": 10153
+  "pushed": "2026-11-12",
+  "stars": 10262
  },
  "Lightricks/LTX-Video": {
   "archived": false,
   "created": "2024-11-20",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-11-02",
-  "stars": 11343
+  "stars": 11396
  },
  "LingGuoAI/LingGuo-Drama": {
   "archived": false,
   "created": "2026-02-24",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
   "pushed": "2026-08-21",
-  "stars": 1652
+  "stars": 1667
  },
  "LingyiChen-AI/AIComicBuilder": {
   "archived": false,
   "created": "2026-03-11",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-04-27",
-  "stars": 1955
+  "stars": 1970
  },
  "MeiGen-AI/InfiniteTalk": {
   "archived": false,
   "created": "2025-08-14",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-05-22",
-  "stars": 8356
+  "stars": 8399
  },
  "MeiGen-AI/MultiTalk": {
   "archived": false,
   "created": "2025-05-28",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-05-22",
-  "stars": 3031
+  "stars": 3039
  },
  "OpenMOSS/MOSS-TTSD": {
   "archived": false,
   "created": "2025-06-17",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-09-06",
-  "stars": 1418
+  "stars": 1422
  },
  "PKU-YuanGroup/Helios": {
   "archived": false,
   "created": "2026-03-02",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-11-01",
-  "stars": 2256
+  "stars": 2265
  },
  "QwenAudio/CosyVoice": {
   "archived": false,
   "created": "2024-07-03",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-05-25",
-  "stars": 24336
+  "stars": 24416
  },
  "QwenAudio/ThinkSound": {
   "archived": false,
   "created": "2025-06-27",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
   "pushed": "2026-04-03",
-  "stars": 1385
+  "stars": 1387
  },
  "QwenLM/Qwen-Image": {
   "archived": false,
   "created": "2025-08-03",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-02-10",
-  "stars": 8469
+  "stars": 8482
  },
  "QwenLM/Qwen3-TTS": {
   "archived": false,
   "created": "2026-01-21",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-03-17",
-  "stars": 14297
+  "stars": 14440
  },
  "RVC-Boss/GPT-SoVITS": {
   "archived": false,
   "created": "2024-01-14",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-10-31",
-  "stars": 64580
+  "pushed": "2026-11-11",
+  "stars": 65207
  },
  "Rudrabha/Wav2Lip": {
   "archived": false,
   "created": "2020-08-07",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
   "pushed": "2025-06-22",
-  "stars": 13271
+  "stars": 13280
  },
  "SWivid/F5-TTS": {
   "archived": false,
   "created": "2024-10-08",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-11-03",
-  "stars": 15536
+  "stars": 15600
  },
  "SYSTRAN/faster-whisper": {
   "archived": false,
   "created": "2023-02-11",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-06",
-  "stars": 26602
+  "pushed": "2026-11-12",
+  "stars": 26786
  },
  "SandAI-org/MAGI-1": {
   "archived": false,
   "created": "2025-04-21",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-06-17",
-  "stars": 3804
+  "stars": 3806
  },
  "SkyworkAI/SkyReels-V2": {
   "archived": false,
   "created": "2025-04-15",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2026-01-29",
-  "stars": 7775
+  "stars": 7816
  },
  "SkyworkAI/SkyReels-V3": {
   "archived": false,
   "created": "2026-01-15",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2026-01-30",
-  "stars": 596
+  "stars": 601
  },
  "SparkAudio/Spark-TTS": {
   "archived": false,
   "created": "2025-02-25",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2025-04-09",
-  "stars": 10990
+  "stars": 10984
  },
  "Stonewuu/ai-fusion-video": {
   "archived": false,
   "created": "2026-03-16",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-04",
-  "stars": 1725
+  "pushed": "2026-11-14",
+  "stars": 1768
  },
  "Swayingleaves/novanova-studio": {
   "archived": false,
   "created": "2026-07-22",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-08",
-  "stars": 702
+  "pushed": "2026-11-13",
+  "stars": 753
  },
  "TMElyralab/MuseTalk": {
   "archived": false,
   "created": "2024-03-26",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2025-09-26",
-  "stars": 6907
+  "stars": 6958
  },
  "Tencent-Hunyuan/HunyuanVideo": {
   "archived": false,
   "created": "2024-11-28",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2026-10-08",
-  "stars": 12743
+  "stars": 12776
  },
  "Tencent-Hunyuan/HunyuanVideo-1.5": {
   "archived": false,
   "created": "2025-11-20",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2026-04-10",
-  "stars": 4594
+  "stars": 4605
  },
  "Tencent-Hunyuan/HunyuanVideo-Avatar": {
   "archived": false,
   "created": "2025-05-26",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2025-12-16",
-  "stars": 2213
+  "stars": 2221
  },
  "Tencent-Hunyuan/HunyuanVideo-Foley": {
   "archived": false,
   "created": "2025-08-15",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2025-09-28",
-  "stars": 1096
+  "stars": 1102
  },
  "Tencent-Hunyuan/HunyuanVideo-I2V": {
   "archived": false,
   "created": "2025-03-04",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2026-04-07",
-  "stars": 1854
+  "stars": 1855
  },
  "Tenney95/AI-Canvas-tauri": {
   "archived": false,
   "created": "2026-05-27",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
-  "pushed": "2026-11-08",
-  "stars": 343
+  "pushed": "2026-11-16",
+  "stars": 371
  },
  "ToTheBeginning/PuLID": {
   "archived": false,
   "created": "2024-04-17",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2025-07-31",
-  "stars": 3553
+  "stars": 3554
  },
  "TypeTale/TypeTale": {
   "archived": false,
   "created": "2025-04-11",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
   "pushed": "2026-08-21",
-  "stars": 909
+  "stars": 917
  },
  "UllrAI/CineGen-ShortDrama": {
   "archived": false,
   "created": "2025-11-27",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2026-09-25",
-  "stars": 571
+  "stars": 576
  },
  "UnderleveledBuilder/awesome-short-drama-skills": {
   "archived": false,
   "created": "2026-10-13",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "CC0-1.0",
-  "pushed": "2026-11-03",
-  "stars": 2031
+  "pushed": "2026-11-16",
+  "stars": 2390
  },
  "VanGong1999/screen-creative-skills": {
   "archived": false,
   "created": "2026-01-10",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-10-20",
-  "stars": 501
+  "stars": 513
  },
  "VectorSpaceLab/OmniGen2": {
   "archived": false,
   "created": "2025-06-06",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-03-20",
-  "stars": 4119
+  "stars": 4122
  },
  "WEIFENG2333/VideoCaptioner": {
   "archived": false,
   "created": "2024-10-31",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "GPL-3.0",
   "pushed": "2026-09-12",
-  "stars": 16485
+  "stars": 16541
  },
  "Wan-Video/Wan-skills": {
   "archived": false,
   "created": "2026-03-31",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-04-17",
-  "stars": 77
+  "stars": 79
  },
  "Wan-Video/Wan2.1": {
   "archived": false,
   "created": "2025-02-25",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-03-05",
-  "stars": 17406
+  "stars": 17443
  },
  "Wan-Video/Wan2.2": {
   "archived": false,
   "created": "2025-07-28",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-09-21",
-  "stars": 18475
+  "stars": 18684
  },
  "ZeroLu/awesome-seedance": {
   "archived": false,
   "created": "2026-02-10",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-09",
-  "stars": 2828
+  "pushed": "2026-11-16",
+  "stars": 2844
  },
  "ace-step/ACE-Step-1.5": {
   "archived": false,
   "created": "2025-09-04",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-11-08",
-  "stars": 14533
+  "stars": 14836
  },
  "ai-boost/awesome-image-video-prompts": {
   "archived": false,
   "created": "2023-11-09",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "GPL-3.0",
-  "pushed": "2026-11-07",
-  "stars": 3455
+  "pushed": "2026-11-15",
+  "stars": 3490
  },
  "alibaba/lumenx": {
   "archived": false,
   "created": "2026-02-05",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-10-29",
-  "stars": 1465
+  "stars": 1483
  },
  "antgroup/echomimic_v3": {
   "archived": false,
   "created": "2025-07-24",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-03-18",
-  "stars": 1118
+  "stars": 1123
  },
  "aqm857886159/Nomi": {
   "archived": false,
   "created": "2026-05-04",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "AGPL-3.0",
-  "pushed": "2026-11-09",
-  "stars": 634
+  "pushed": "2026-11-16",
+  "stars": 655
  },
  "black-forest-labs/flux": {
   "archived": false,
   "created": "2024-08-01",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2025-07-31",
-  "stars": 26048
+  "stars": 26060
  },
  "boson-ai/higgs-audio": {
   "archived": false,
   "created": "2025-07-20",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-06-05",
-  "stars": 8380
+  "stars": 8390
  },
  "buxuku/SmartSub": {
   "archived": false,
   "created": "2024-05-21",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-06",
-  "stars": 5980
+  "pushed": "2026-11-09",
+  "stars": 6050
  },
  "bytedance/LatentSync": {
   "archived": false,
   "created": "2024-12-11",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2025-06-20",
-  "stars": 6258
+  "stars": 6287
  },
  "bytedance/MegaTTS3": {
   "archived": false,
   "created": "2025-03-20",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-06-15",
-  "stars": 6114
+  "stars": 6117
  },
  "bytedance/UNO": {
   "archived": false,
   "created": "2025-04-01",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2025-09-12",
-  "stars": 1363
+  "stars": 1364
  },
  "bytedance/USO": {
   "archived": false,
   "created": "2025-08-22",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2025-09-12",
-  "stars": 1240
+  "stars": 1241
  },
  "chatfire-AI/huobao-drama": {
   "archived": false,
   "created": "2026-01-05",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
-  "pushed": "2026-11-05",
-  "stars": 17140
+  "pushed": "2026-11-15",
+  "stars": 17558
  },
  "chillzhuang/Kinema": {
   "archived": false,
   "created": "2026-08-14",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "AGPL-3.0",
-  "pushed": "2026-09-14",
-  "stars": 242
+  "pushed": "2026-11-16",
+  "stars": 245
  },
  "dexhunter/seedance2-skill": {
   "archived": false,
   "created": "2026-02-11",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-09-19",
-  "stars": 4431
+  "stars": 4499
  },
  "dramaclaw/dramaclaw": {
   "archived": false,
   "created": "2026-03-27",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
-  "pushed": "2026-11-06",
-  "stars": 7530
+  "pushed": "2026-11-16",
+  "stars": 7721
  },
  "eternityspring/shuohao-skills": {
   "archived": false,
   "created": "2026-08-06",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
-  "pushed": "2026-10-26",
-  "stars": 6288
+  "pushed": "2026-11-09",
+  "stars": 6698
  },
  "fishaudio/fish-speech": {
   "archived": false,
   "created": "2023-10-10",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
-  "pushed": "2026-11-02",
-  "stars": 33631
+  "pushed": "2026-11-14",
+  "stars": 33750
  },
  "fspecii/ace-step-ui": {
   "archived": false,
   "created": "2026-02-04",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
   "pushed": "2026-06-27",
-  "stars": 5192
+  "stars": 5229
  },
  "fudan-generative-vision/hallo3": {
   "archived": false,
   "created": "2024-11-27",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2025-03-13",
-  "stars": 1421
+  "stars": 1423
  },
  "harry0703/MoneyPrinterTurbo": {
   "archived": false,
   "created": "2024-03-11",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-07",
-  "stars": 141095
+  "pushed": "2026-11-16",
+  "stars": 143889
  },
  "hkchengrex/MMAudio": {
   "archived": false,
   "created": "2024-12-07",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-02-23",
-  "stars": 2309
+  "stars": 2321
  },
  "hpcaitech/Open-Sora": {
   "archived": false,
   "created": "2024-02-20",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-04-09",
-  "stars": 29920
+  "stars": 29939
  },
  "hzwer/Practical-RIFE": {
   "archived": false,
   "created": "2021-06-16",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-08-27",
-  "stars": 1039
+  "stars": 1048
  },
  "index-tts/index-tts": {
   "archived": false,
   "created": "2025-02-06",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2026-09-29",
-  "stars": 24996
+  "stars": 25119
  },
  "instantX-research/InstantID": {
   "archived": false,
   "created": "2023-12-11",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2024-07-18",
-  "stars": 11993
+  "stars": 11994
  },
  "jianchang512/pyvideotrans": {
   "archived": false,
   "created": "2023-10-02",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "GPL-3.0",
-  "pushed": "2026-11-09",
-  "stars": 19676
+  "pushed": "2026-11-16",
+  "stars": 19756
  },
  "jixiaozhong/Sonic": {
   "archived": false,
   "created": "2024-11-26",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2026-01-08",
   "stars": 3277
@@ -738,15 +738,15 @@
  "k4yt3x/video2x": {
   "archived": false,
   "created": "2018-02-24",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "AGPL-3.0",
   "pushed": "2026-03-07",
-  "stars": 22657
+  "stars": 22755
  },
  "kijai/ComfyUI-LivePortraitKJ": {
   "archived": false,
   "created": "2024-07-04",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2024-08-05",
   "stars": 2209
@@ -754,217 +754,217 @@
  "kijai/ComfyUI-WanVideoWrapper": {
   "archived": false,
   "created": "2025-02-25",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
-  "pushed": "2026-05-24",
-  "stars": 6812
+  "pushed": "2026-11-13",
+  "stars": 6817
  },
  "liangdabiao/Seedance2-Storyboard-Generator": {
   "archived": false,
   "created": "2026-02-16",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
-  "pushed": "2026-10-31",
-  "stars": 2798
+  "pushed": "2026-11-15",
+  "stars": 2879
  },
  "linyqh/NarratoAI": {
   "archived": false,
   "created": "2024-08-12",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-10-24",
-  "stars": 11749
+  "stars": 11838
  },
  "liuzhao1225/YouDub-webui": {
   "archived": false,
   "created": "2023-12-26",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
-  "pushed": "2026-11-06",
-  "stars": 5819
+  "pushed": "2026-11-13",
+  "stars": 5851
  },
  "lixiaoxiao9888-create/manju-laoli-skill": {
   "archived": false,
   "created": "2026-08-15",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-08",
-  "stars": 1987
+  "pushed": "2026-11-15",
+  "stars": 2112
  },
  "lixiaoxiao9888-create/short-drama-factory": {
   "archived": false,
   "created": "2026-08-09",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-10-24",
-  "stars": 564
+  "pushed": "2026-11-15",
+  "stars": 603
  },
  "lllyasviel/FramePack": {
   "archived": false,
   "created": "2025-04-12",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2025-10-16",
-  "stars": 17346
+  "stars": 17357
  },
  "m-bain/whisperX": {
   "archived": false,
   "created": "2022-12-09",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "BSD-2-Clause",
-  "pushed": "2026-10-22",
-  "stars": 25156
+  "pushed": "2026-11-12",
+  "stars": 25359
  },
  "microsoft/VibeVoice": {
   "archived": false,
   "created": "2025-08-25",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-10-08",
-  "stars": 56807
+  "stars": 57199
  },
  "mltframework/shotcut": {
   "archived": false,
   "created": "2012-04-23",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "GPL-3.0",
-  "pushed": "2026-11-04",
-  "stars": 15632
+  "pushed": "2026-11-15",
+  "stars": 15699
  },
  "multimodal-art-projection/YuE": {
   "archived": false,
   "created": "2025-01-23",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2026-11-01",
-  "stars": 13208
+  "stars": 13530
  },
  "neopen/story-shot-agent": {
   "archived": false,
   "created": "2025-10-23",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-08",
-  "stars": 239
+  "pushed": "2026-11-15",
+  "stars": 240
  },
  "shijue-aid/aid-studio": {
   "archived": false,
   "created": "2026-07-19",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-10-30",
-  "stars": 1355
+  "stars": 1438
  },
  "shuyu-labs/BigBanana-AI-Director": {
   "archived": false,
   "created": "2026-01-31",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "NOASSERTION",
   "pushed": "2026-11-08",
-  "stars": 2426
+  "stars": 2455
  },
  "songguoxs/seedance-prompt-skill": {
   "archived": false,
   "created": "2026-02-12",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
   "pushed": "2026-02-12",
-  "stars": 2989
+  "stars": 3009
  },
  "tencent-ailab/IP-Adapter": {
   "archived": false,
   "created": "2023-08-16",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2024-06-28",
-  "stars": 6713
+  "stars": 6718
  },
  "tyxben/AI_novel": {
   "archived": false,
   "created": "2026-02-27",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-08-18",
-  "stars": 266
+  "stars": 268
  },
  "xeronsh/KomaSlate": {
-  "archived": false,
+  "archived": true,
   "created": "2026-01-22",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
-  "pushed": "2026-11-08",
-  "stars": 413
+  "pushed": "2026-11-13",
+  "stars": 414
  },
  "xhongc/ai_story": {
   "archived": false,
   "created": "2025-11-08",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
   "pushed": "2026-10-13",
-  "stars": 2018
+  "stars": 2069
  },
  "xinntao/Real-ESRGAN": {
   "archived": false,
   "created": "2021-07-19",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "BSD-3-Clause",
   "pushed": "2024-08-06",
-  "stars": 37412
+  "stars": 37513
  },
  "xuanyustudio/LocalMiniDrama": {
   "archived": false,
   "created": "2026-02-10",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-03",
-  "stars": 2387
+  "pushed": "2026-11-15",
+  "stars": 2459
  },
  "yi1108/printfilm": {
   "archived": false,
   "created": "2026-09-10",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-06",
-  "stars": 7386
+  "pushed": "2026-11-16",
+  "stars": 7460
  },
  "zai-org/CogVideo": {
   "archived": false,
   "created": "2022-05-29",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "Apache-2.0",
   "pushed": "2025-11-04",
-  "stars": 13189
+  "stars": 13208
  },
  "zenstory-ai/drama-skills": {
   "archived": false,
   "created": "2026-07-16",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
-  "pushed": "2026-11-08",
-  "stars": 3963
+  "pushed": "2026-11-16",
+  "stars": 4324
  },
  "zhaihao118/Micro-Drama-Skills": {
   "archived": false,
   "created": "2026-02-16",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
   "pushed": "2026-02-23",
-  "stars": 331
+  "stars": 337
  },
  "zhanghao123vip/ai-manju-skills": {
   "archived": false,
   "created": "2026-10-31",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": "MIT",
   "pushed": "2026-11-01",
-  "stars": 630
+  "stars": 829
  },
  "zhaotoday/awesome-ai-video": {
   "archived": false,
   "created": "2026-09-15",
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-16",
   "license": null,
-  "pushed": "2026-11-04",
-  "stars": 49
+  "pushed": "2026-11-15",
+  "stars": 58
  }
 }
