@@ -82,7 +82,6 @@ Open-source workspaces that take a novel or a one-line idea through script, char
 | [Nomi](https://github.com/aqm857886159/Nomi) | Local-first AI video workbench; bring any model or local ComfyUI and let Claude Code or Codex direct it over MCP into an editable first cut. | 655 | 2026-11 |
 | [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) | Multi-agent micro-drama generator, screenwriter to storyboard to frames to video. | 580 | 2026-08 |
 | [CineGen-ShortDrama](https://github.com/UllrAI/CineGen-ShortDrama) | AI director system for manga dramas, anime, short dramas and motion comics. | 576 | 2026-09 |
-| [KomaSlate](https://github.com/xeronsh/KomaSlate) | Local-first, non-destructive AI storyboarding workspace with shot retakes, version diffs and FCPXML export. | 414 | 2026-11 |
 | [novelvids](https://github.com/Anning01/novelvids) | Self-hostable AI drama workspace covering story, character assets, storyboards and generation. | 374 | 2026-11 |
 | [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | Free, lightweight AI canvas for drama scripts, characters, storyboards, generation and editing, with ComfyUI, agents and MCP. | 371 | 2026-11 |
 | [Kinema](https://github.com/chillzhuang/Kinema) | Video agent driven by Codex or Claude Code that plans chapters and shots and manages assets through to the final film. | 245 | 2026-11 |
@@ -119,7 +118,6 @@ Video models with downloadable weights for local runs or ComfyUI. Without enough
 | [Wan2.2](https://github.com/Wan-Video/Wan2.2) | Wan2.2 from Alibaba, an open large-scale video model for text-to-video and image-to-video. | 18.7k | 2026-09 |
 | [Wan2.1](https://github.com/Wan-Video/Wan2.1) | Wan2.1, the previous Wan generation, with many community workflows and LoRAs. | 17.4k | 2026-03 |
 | [FramePack](https://github.com/lllyasviel/FramePack) 💤 | Makes long video diffusion practical on consumer GPUs. | 17.4k | 2025-10 |
-| [CogVideo](https://github.com/zai-org/CogVideo) 💤 | CogVideoX from Zhipu, text-to-video and image-to-video. | 13.2k | 2025-11 |
 | [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) | Tencent Hunyuan video generation framework. | 12.8k | 2026-10 |
 | [LTX-Video](https://github.com/Lightricks/LTX-Video) | LTX-Video, a fast open video model. | 11.4k | 2026-11 |
 | [LTX-2](https://github.com/Lightricks/LTX-2) | LTX-2 audio-video model with an official LoRA trainer. | 10.3k | 2026-11 |
@@ -136,14 +134,8 @@ Keeping a character on-model across shots is the hardest part of AI drama. Use t
 
 | Project | Description | ⭐ | Last update |
 |---|---|---:|---|
-| [flux](https://github.com/black-forest-labs/flux) 💤 | Official inference code for the FLUX.1 models. | 26.1k | 2025-07 |
-| [InstantID](https://github.com/instantX-research/InstantID) 💤 | Zero-shot identity-preserving generation from a single photo. | 12.0k | 2024-07 |
 | [Qwen-Image](https://github.com/QwenLM/Qwen-Image) | Qwen-Image, strong at complex text rendering and precise editing, good for Chinese text in frame. | 8.5k | 2026-02 |
-| [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) 💤 | Image-prompt adapter widely used to lock a character or style. | 6.7k | 2024-06 |
 | [OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) | Unified multimodal generation and editing model. | 4.1k | 2026-03 |
-| [PuLID](https://github.com/ToTheBeginning/PuLID) 💤 | Fast identity customization. | 3.6k | 2025-07 |
-| [UNO](https://github.com/bytedance/UNO) 💤 | ByteDance UNO for single- and multi-subject customization, useful for several characters in one frame. | 1.4k | 2025-09 |
-| [USO](https://github.com/bytedance/USO) 💤 | ByteDance USO, unified style- and subject-driven generation. | 1.2k | 2025-09 |
 
 ## Voice, TTS and voice cloning
 
@@ -158,7 +150,6 @@ Character voices and narration. For multi-speaker dialogue, look at dialogue mod
 | [CosyVoice](https://github.com/QwenAudio/CosyVoice) | CosyVoice multilingual voice generation with inference, training and deployment. | 24.4k | 2026-05 |
 | [F5-TTS](https://github.com/SWivid/F5-TTS) | Zero-shot TTS based on flow matching. | 15.6k | 2026-11 |
 | [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) | Qwen3-TTS with streaming synthesis, free-form voice design and voice cloning. | 14.4k | 2026-03 |
-| [Spark-TTS](https://github.com/SparkAudio/Spark-TTS) 💤 | Spark-TTS bilingual TTS and voice cloning. | 11.0k | 2025-04 |
 | [higgs-audio](https://github.com/boson-ai/higgs-audio) | Expressive text-audio foundation model from Boson AI. | 8.4k | 2026-06 |
 | [MegaTTS3](https://github.com/bytedance/MegaTTS3) | ByteDance MegaTTS 3, zero-shot Chinese and English speech synthesis. | 6.1k | 2026-06 |
 | [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) | Long-form multi-speaker dialogue synthesis with zero-shot cloning, good for character dialogue. | 1.4k | 2026-09 |
@@ -170,20 +161,16 @@ Make characters deliver their lines. InfiniteTalk and MultiTalk handle long and 
 | Project | Description | ⭐ | Last update |
 |---|---|---:|---|
 | [LivePortrait](https://github.com/KlingAIResearch/LivePortrait) | LivePortrait from the Kling team, animating portraits and driving expressions. | 19.5k | 2026-06 |
-| [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) 💤 | Classic lip-sync model with a mature ecosystem (older, good to start with). | 13.3k | 2025-06 |
 | [InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) | Unlimited-length talking video for image-to-video and video-to-video. | 8.4k | 2026-05 |
-| [MuseTalk](https://github.com/TMElyralab/MuseTalk) 💤 | Real-time high-quality lip sync. | 7.0k | 2025-09 |
-| [LatentSync](https://github.com/bytedance/LatentSync) 💤 | ByteDance LatentSync, diffusion-based lip sync. | 6.3k | 2025-06 |
 | [Sonic](https://github.com/jixiaozhong/Sonic) | Portrait animation driven by global audio perception. | 3.3k | 2026-01 |
 | [MultiTalk](https://github.com/MeiGen-AI/MultiTalk) | Audio-driven multi-person conversational video generation. | 3.0k | 2026-05 |
 | [HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) | Hunyuan video avatar for audio-driven multi-character animation. | 2.2k | 2025-12 |
 | [fantasy-talking](https://github.com/Fantasy-AMAP/fantasy-talking) | Talking portrait generation with coherent motion. | 1.6k | 2026-01 |
-| [hallo3](https://github.com/fudan-generative-vision/hallo3) 💤 | Highly dynamic portrait animation built on a video diffusion transformer. | 1.4k | 2025-03 |
 | [echomimic_v3](https://github.com/antgroup/echomimic_v3) | Ant Group EchoMimic V3, 1.3B multimodal human animation. | 1.1k | 2026-03 |
 
 ## Music and sound effects
 
-Score, theme songs and Foley. MMAudio, HunyuanVideo-Foley and ThinkSound generate sound effects from the video itself.
+Score, theme songs and Foley. MMAudio and ThinkSound generate sound effects from the video itself.
 
 | Project | Description | ⭐ | Last update |
 |---|---|---:|---|
@@ -194,7 +181,6 @@ Score, theme songs and Foley. MMAudio, HunyuanVideo-Foley and ThinkSound generat
 | [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) | Fast end-to-end full-length song generation. | 2.4k | 2025-11 |
 | [MMAudio](https://github.com/hkchengrex/MMAudio) | Video-to-audio synthesis. | 2.3k | 2026-02 |
 | [ThinkSound](https://github.com/QwenAudio/ThinkSound) | ThinkSound, chain-of-thought audio generation from any modality, including video. | 1.4k | 2026-04 |
-| [HunyuanVideo-Foley](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley) 💤 | Hunyuan Foley for high-fidelity sound effects from video. | 1.1k | 2025-09 |
 
 ## Editing, subtitles and post-production
 
@@ -235,7 +221,6 @@ The core of most local setups; nearly every open video, voice and lip-sync model
 |---|---|---:|---|
 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Node-based diffusion GUI and backend, the de facto standard for local AIGC. | 147.1k | 2026-11 |
 | [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) | ComfyUI wrapper nodes for Wan and related video models. | 6.8k | 2026-11 |
-| [ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) 💤 | ComfyUI nodes for LivePortrait. | 2.2k | 2024-08 |
 | [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) | Common video nodes for loading, combining and exporting. | 1.9k | 2026-09 |
 | [ComfyUI-Frame-Interpolation](https://github.com/Fannovel16/ComfyUI-Frame-Interpolation) | Frame interpolation nodes for ComfyUI. | 1.1k | 2026-03 |
 | [comfyui-AICG3D](https://github.com/JGRFW/comfyui-AICG3D) 🆕 | Local short-drama workspace plugin for ComfyUI with long-video generation. | 579 | 2026-11 |

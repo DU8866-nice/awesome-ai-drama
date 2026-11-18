@@ -72,9 +72,6 @@ categories:
       - repo: Anil-matcha/Open-AI-Micro-Drama-Generator
         zh: "多 Agent 微短剧生成器，编剧 → 分镜 → 关键帧 → 视频。"
         en: "Multi-agent micro-drama generator, screenwriter to storyboard to frames to video."
-      - repo: xeronsh/KomaSlate
-        zh: "本地优先、非破坏性的 AI 分镜工作台，支持重拍镜头、版本对比和 FCPXML 导出。"
-        en: "Local-first, non-destructive AI storyboarding workspace with shot retakes, version diffs and FCPXML export."
       - repo: Anning01/novelvids
         zh: "AI 漫剧与短剧创作工作台，覆盖故事创作、角色资产、分镜和出图出视频，支持本地部署。"
         en: "Self-hostable AI drama workspace covering story, character assets, storyboards and generation."
@@ -155,9 +152,6 @@ categories:
       - repo: lllyasviel/FramePack
         zh: "让视频扩散在消费级显卡上也能跑长视频的框架。"
         en: "Makes long video diffusion practical on consumer GPUs."
-      - repo: zai-org/CogVideo
-        zh: "智谱 CogVideoX，文生视频和图生视频。"
-        en: "CogVideoX from Zhipu, text-to-video and image-to-video."
       - repo: Tencent-Hunyuan/HunyuanVideo
         zh: "腾讯混元视频生成框架。"
         en: "Tencent Hunyuan video generation framework."
@@ -192,30 +186,12 @@ categories:
     zh_intro: "漫剧最头疼的是\"同一个角色每张图都长得不一样\"。先用这些模型做稳定的角色设定图和关键帧，再拿去图生视频。"
     en_intro: "Keeping a character on-model across shots is the hardest part of AI drama. Use these to make stable character sheets and keyframes before image-to-video."
     items:
-      - repo: black-forest-labs/flux
-        zh: "FLUX.1 系列模型的官方推理代码。"
-        en: "Official inference code for the FLUX.1 models."
-      - repo: instantX-research/InstantID
-        zh: "一张照片零样本保持人物身份。"
-        en: "Zero-shot identity-preserving generation from a single photo."
       - repo: QwenLM/Qwen-Image
         zh: "通义千问图像模型，擅长复杂文字渲染和精确图像编辑，中文海报、字幕画面友好。"
         en: "Qwen-Image, strong at complex text rendering and precise editing, good for Chinese text in frame."
-      - repo: tencent-ailab/IP-Adapter
-        zh: "用参考图做提示的适配器，常用于锁定角色或画风。"
-        en: "Image-prompt adapter widely used to lock a character or style."
       - repo: VectorSpaceLab/OmniGen2
         zh: "统一的多模态生成与编辑模型。"
         en: "Unified multimodal generation and editing model."
-      - repo: ToTheBeginning/PuLID
-        zh: "快速的人物 ID 定制。"
-        en: "Fast identity customization."
-      - repo: bytedance/UNO
-        zh: "字节 UNO，单主体和多主体定制，适合多角色同框。"
-        en: "ByteDance UNO for single- and multi-subject customization, useful for several characters in one frame."
-      - repo: bytedance/USO
-        zh: "字节 USO，统一风格与主体驱动生成，可同时锁角色和画风。"
-        en: "ByteDance USO, unified style- and subject-driven generation."
 
   - id: voice
     zh: "配音 / TTS / 声音克隆"
@@ -244,9 +220,6 @@ categories:
       - repo: QwenLM/Qwen3-TTS
         zh: "通义 Qwen3-TTS，支持流式合成、自由描述音色设计和声音克隆。"
         en: "Qwen3-TTS with streaming synthesis, free-form voice design and voice cloning."
-      - repo: SparkAudio/Spark-TTS
-        zh: "Spark-TTS 中英双语 TTS 与声音克隆。"
-        en: "Spark-TTS bilingual TTS and voice cloning."
       - repo: boson-ai/higgs-audio
         zh: "Boson AI 的文本-音频基础模型，表现力强。"
         en: "Expressive text-audio foundation model from Boson AI."
@@ -266,18 +239,9 @@ categories:
       - repo: KlingAIResearch/LivePortrait
         zh: "可灵团队的 LivePortrait，让静态人像动起来、驱动表情。"
         en: "LivePortrait from the Kling team, animating portraits and driving expressions."
-      - repo: Rudrabha/Wav2Lip
-        zh: "经典的口型同步模型，生态成熟（较老，适合入门）。"
-        en: "Classic lip-sync model with a mature ecosystem (older, good to start with)."
       - repo: MeiGen-AI/InfiniteTalk
         zh: "不限时长的说话视频生成，支持图生视频和视频生视频。"
         en: "Unlimited-length talking video for image-to-video and video-to-video."
-      - repo: TMElyralab/MuseTalk
-        zh: "实时高质量口型同步。"
-        en: "Real-time high-quality lip sync."
-      - repo: bytedance/LatentSync
-        zh: "字节 LatentSync，基于扩散模型的口型同步。"
-        en: "ByteDance LatentSync, diffusion-based lip sync."
       - repo: jixiaozhong/Sonic
         zh: "关注全局音频感知的人像动画。"
         en: "Portrait animation driven by global audio perception."
@@ -290,9 +254,6 @@ categories:
       - repo: Fantasy-AMAP/fantasy-talking
         zh: "动作连贯的说话人像生成。"
         en: "Talking portrait generation with coherent motion."
-      - repo: fudan-generative-vision/hallo3
-        zh: "基于视频 DiT 的高动态人像动画。"
-        en: "Highly dynamic portrait animation built on a video diffusion transformer."
       - repo: antgroup/echomimic_v3
         zh: "蚂蚁 EchoMimic V3，1.3B 参数的多模态人体动画。"
         en: "Ant Group EchoMimic V3, 1.3B multimodal human animation."
@@ -300,8 +261,8 @@ categories:
   - id: audio
     zh: "配乐与音效"
     en: "Music and sound effects"
-    zh_intro: "背景音乐、主题曲和拟音音效。MMAudio、HunyuanVideo-Foley、ThinkSound 可以直接根据画面生成音效。"
-    en_intro: "Score, theme songs and Foley. MMAudio, HunyuanVideo-Foley and ThinkSound generate sound effects from the video itself."
+    zh_intro: "背景音乐、主题曲和拟音音效。MMAudio、ThinkSound 可以直接根据画面生成音效。"
+    en_intro: "Score, theme songs and Foley. MMAudio and ThinkSound generate sound effects from the video itself."
     items:
       - repo: ace-step/ACE-Step-1.5
         zh: "本地音乐生成模型，支持 Mac、AMD、Intel 和 CUDA。"
@@ -324,9 +285,6 @@ categories:
       - repo: QwenAudio/ThinkSound
         zh: "通义 ThinkSound，用思维链从任意模态生成音频，可给画面配音效。"
         en: "ThinkSound, chain-of-thought audio generation from any modality, including video."
-      - repo: Tencent-Hunyuan/HunyuanVideo-Foley
-        zh: "混元视频拟音，给画面配高保真音效。"
-        en: "Hunyuan Foley for high-fidelity sound effects from video."
 
   - id: post
     zh: "剪辑、字幕与后期"
@@ -405,9 +363,6 @@ categories:
       - repo: kijai/ComfyUI-WanVideoWrapper
         zh: "在 ComfyUI 里使用万相等视频模型的封装节点。"
         en: "ComfyUI wrapper nodes for Wan and related video models."
-      - repo: kijai/ComfyUI-LivePortraitKJ
-        zh: "LivePortrait 的 ComfyUI 节点。"
-        en: "ComfyUI nodes for LivePortrait."
       - repo: Kosinkadink/ComfyUI-VideoHelperSuite
         zh: "视频加载、合成、导出等常用视频节点。"
         en: "Common video nodes for loading, combining and exporting."
