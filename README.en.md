@@ -53,7 +53,7 @@ flowchart TB
 - [Related lists](#related-lists)
 - [Contributing](#contributing)
 
-Legend: 🆕 created in the last 90 days　💤 no update for over a year　⭐ stars (as of 2026-11-23)
+Legend: 🆕 created in the last 90 days　💤 no update for over a year　⭐ stars (as of 2026-11-25)
 
 ## All-in-one drama studios
 
@@ -61,33 +61,33 @@ Open-source workspaces that take a novel or a one-line idea through script, char
 
 | Project | Description | ⭐ | Last update |
 |---|---|---:|---|
-| [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | Drama and motion-comic studio with an infinite canvas, AI agents and visual workflows covering script, storyboard, assets and image/video generation; self-hostable with MCP and plugins. | 22.6k | 2026-11 |
-| [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | Huobao Drama, an end-to-end generator that turns one sentence into a finished short drama. | 17.9k | 2026-11 |
+| [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | Drama and motion-comic studio with an infinite canvas, AI agents and visual workflows covering script, storyboard, assets and image/video generation; self-hostable with MCP and plugins. | 22.8k | 2026-11 |
+| [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | Huobao Drama, an end-to-end generator that turns one sentence into a finished short drama. | 18.0k | 2026-11 |
 | [Jellyfish](https://github.com/Forget-C/Jellyfish) | End-to-end production workspace for AI short dramas, from script and structured storyboards to consistency management, generation and export. | 7.3k | 2026-11 |
-| [printfilm](https://github.com/yi1108/printfilm) 🆕 | Platform for AI short-video marketing and AI short-drama creation. | 7.2k | 2026-11 |
 | [dramaclaw](https://github.com/dramaclaw/dramaclaw) | General-purpose AIGC video engine with one pipeline from script to film, for dramas, ads and product videos. | 7.2k | 2026-11 |
-| [ArcReel](https://github.com/ArcReel/ArcReel) | Self-hosted, agent-driven workspace that turns novels and scripts into assets, storyboards, videos and CapCut drafts, with cross-shot consistency and cost tracking. | 6.7k | 2026-11 |
+| [printfilm](https://github.com/yi1108/printfilm) 🆕 | Platform for AI short-video marketing and AI short-drama creation. | 7.2k | 2026-11 |
+| [ArcReel](https://github.com/ArcReel/ArcReel) | Self-hosted, agent-driven workspace that turns novels and scripts into assets, storyboards, videos and CapCut drafts, with cross-shot consistency and cost tracking. | 6.8k | 2026-11 |
+| [moyin-creator](https://github.com/MemeCalculate/moyin-creator) | Desktop app for AI film and short-drama production: script parsing, character bibles with reference images, storyboards with camera settings and batch image/video generation, with Seedance 2.0 multi-reference support. | 4.9k | 2026-11 |
 | [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) | Local-first AI drama maker, story to storyboard to video with data kept on your machine; supports Seedance 2. | 2.5k | 2026-11 |
 | [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director) | AI drama director platform built on a Script-to-Asset-to-Keyframe workflow for consistent characters, scenes and camera moves. | 2.5k | 2026-11 |
 | [ai_story](https://github.com/xhongc/ai_story) | Automated generator for AI videos, anime clips and AI dramas. | 2.1k | 2026-10 |
+| [open-ai-canvas](https://github.com/ddcat-ai/open-ai-canvas) | Yingce, an infinite-canvas workspace for AI film and drama with scripts, characters, structured storyboards, 3D previs, multimodal generation, an asset library and timeline editing. | 2.0k | 2026-11 |
 | [AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) | Turns scripts into animated comic videos with AI character design, storyboarding and video synthesis. | 2.0k | 2026-04 |
 | [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) | Agent-based end-to-end platform for short dramas, motion comics and videos, built with Java and AgentScope. | 1.8k | 2026-11 |
+| [aid-studio](https://github.com/shijue-aid/aid-studio) | Self-hostable studio for AI dramas, films and comics with script, assets, storyboards, generation, dubbing and preview. | 1.8k | 2026-11 |
 | [LingGuo-Drama](https://github.com/LingGuoAI/LingGuo-Drama) | Lingguo Drama, a one-stop generator for mini-dramas and motion comics. | 1.7k | 2026-08 |
-| [aid-studio](https://github.com/shijue-aid/aid-studio) | Self-hostable studio for AI dramas, films and comics with script, assets, storyboards, generation, dubbing and preview. | 1.7k | 2026-11 |
 | [lumenx](https://github.com/alibaba/lumenx) | LumenX Studio from Alibaba, turning novel text into motion video through script analysis, character design, storyboarding and synthesis. | 1.5k | 2026-10 |
 | [StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) | Storyboard and video tool using Gemini for boards and frames, Veo for transition clips and ffmpeg for the final cut. | 1.0k | 2026-09 |
-| [novanova-studio](https://github.com/Swayingleaves/novanova-studio) | Agent-driven platform with image and video generation, infinite canvas, novel-to-drama and a 3D director stage. | 984 | 2026-11 |
+| [novanova-studio](https://github.com/Swayingleaves/novanova-studio) | Agent-driven platform with image and video generation, infinite canvas, novel-to-drama and a 3D director stage. | 1.0k | 2026-11 |
+| [reveric](https://github.com/looplj/reveric) 🆕 | Reveric, an agent-driven desktop workspace combining novel and screenplay editors, a storyboard canvas, a 3D director stage and a multi-track editor, using your own model keys. | 998 | 2026-11 |
 | [TypeTale](https://github.com/TypeTale/TypeTale) | TypeTale, a free AIGC video app for AI dramas, films and novel-promo videos. | 918 | 2026-08 |
-| [wind-comic](https://github.com/ChrisChen667788/wind-comic) | Multi-agent pipeline from one line of text to a short drama with script, cinematic boards and character-consistent video; provider-agnostic. | 723 | 2026-11 |
-| [Nomi](https://github.com/aqm857886159/Nomi) | Local-first AI video workbench; bring any model or local ComfyUI and let Claude Code or Codex direct it over MCP into an editable first cut. | 665 | 2026-11 |
-| [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) | Multi-agent micro-drama generator, screenwriter to storyboard to frames to video. | 588 | 2026-08 |
-| [CineGen-ShortDrama](https://github.com/UllrAI/CineGen-ShortDrama) | AI director system for manga dramas, anime, short dramas and motion comics. | 582 | 2026-09 |
-| [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | Free, lightweight AI canvas for drama scripts, characters, storyboards, generation and editing, with ComfyUI, agents and MCP. | 397 | 2026-11 |
-| [novelvids](https://github.com/Anning01/novelvids) | Self-hostable AI drama workspace covering story, character assets, storyboards and generation. | 389 | 2026-11 |
+| [wind-comic](https://github.com/ChrisChen667788/wind-comic) | Multi-agent pipeline from one line of text to a short drama with script, cinematic boards and character-consistent video; provider-agnostic. | 726 | 2026-11 |
+| [Nomi](https://github.com/aqm857886159/Nomi) | Local-first AI video workbench; bring any model or local ComfyUI and let Claude Code or Codex direct it over MCP into an editable first cut. | 666 | 2026-11 |
+| [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) | Multi-agent micro-drama generator, screenwriter to storyboard to frames to video. | 591 | 2026-08 |
+| [CineGen-ShortDrama](https://github.com/UllrAI/CineGen-ShortDrama) | AI director system for manga dramas, anime, short dramas and motion comics. | 583 | 2026-09 |
+| [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | Free, lightweight AI canvas for drama scripts, characters, storyboards, generation and editing, with ComfyUI, agents and MCP. | 404 | 2026-11 |
+| [novelvids](https://github.com/Anning01/novelvids) | Self-hostable AI drama workspace covering story, character assets, storyboards and generation. | 392 | 2026-11 |
 | [Kinema](https://github.com/chillzhuang/Kinema) | Video agent driven by Codex or Claude Code that plans chapters and shots and manages assets through to the final film. | 248 | 2026-11 |
-| [moyin-creator](https://github.com/MemeCalculate/moyin-creator) | Desktop app for AI film and short-drama production: script parsing, character bibles with reference images, storyboards with camera settings and batch image/video generation, with Seedance 2.0 multi-reference support. | - | - |
-| [open-ai-canvas](https://github.com/ddcat-ai/open-ai-canvas) | Yingce, an infinite-canvas workspace for AI film and drama with scripts, characters, structured storyboards, 3D previs, multimodal generation, an asset library and timeline editing. | - | - |
-| [reveric](https://github.com/looplj/reveric) | Reveric, an agent-driven desktop workspace combining novel and screenplay editors, a storyboard canvas, a 3D director stage and a multi-track editor, using your own model keys. | - | - |
 
 ## Agent skills (script, storyboard, prompts)
 
@@ -96,19 +96,19 @@ Skill packs for Claude Code, Codex, DeepSeek Harness and similar agents, for peo
 | Project | Description | ⭐ | Last update |
 |---|---|---:|---|
 | [seedance-2.0](https://github.com/Emily2040/seedance-2.0) | Full production pipeline for filmmaking with Seedance 2.0. | 8.3k | 2026-10 |
-| [shuohao-skills](https://github.com/eternityspring/shuohao-skills) | Short-drama skills for character bibles, adaptation outlines, art bibles, screenplays and storyboards. | 7.0k | 2026-11 |
-| [drama-skills](https://github.com/zenstory-ai/drama-skills) | Novel-to-script, character turnarounds, shot lists, generation prompts and final-cut review. | 4.8k | 2026-11 |
+| [shuohao-skills](https://github.com/eternityspring/shuohao-skills) | Short-drama skills for character bibles, adaptation outlines, art bibles, screenplays and storyboards. | 7.1k | 2026-11 |
+| [drama-skills](https://github.com/zenstory-ai/drama-skills) | Novel-to-script, character turnarounds, shot lists, generation prompts and final-cut review. | 5.0k | 2026-11 |
 | [seedance2-skill](https://github.com/dexhunter/seedance2-skill) | Skill for writing strong Seedance 2.0 video prompts. | 4.6k | 2026-09 |
+| [manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) | Manga-drama suite with one director skill and 12 sub-skills for research, script, assets, shots and QA. | 3.1k | 2026-11 |
 | [seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) | Skill that writes Seedance 2.0 video prompts. | 3.0k | 2026-02 |
-| [Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) | Turns novels and stories into multi-episode scripts and storyboards designed for Seedance 2.0. | 2.9k | 2026-11 |
-| [manju-laoli-skill](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) | Manga-drama suite with one director skill and 12 sub-skills for research, script, assets, shots and QA. | 2.7k | 2026-11 |
+| [Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) | Turns novels and stories into multi-episode scripts and storyboards designed for Seedance 2.0. | 3.0k | 2026-11 |
 | [short-drama](https://github.com/0xsline/short-drama) | Short-drama screenwriting skill from concept and episodes to self-review, compliance and overseas release. | 1.7k | 2026-04 |
-| [ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) 🆕 | AI manga-drama skills across 21 genres, from one idea to plan, asset prompts, episodes, shots and video prompts. | 985 | 2026-11 |
-| [short-drama-factory](https://github.com/lixiaoxiao9888-create/short-drama-factory) | Industrial short-drama screenwriting system that turns an idea or web novel into a 30 to 100 episode script. | 660 | 2026-11 |
+| [ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) 🆕 | AI manga-drama skills across 21 genres, from one idea to plan, asset prompts, episodes, shots and video prompts. | 1.0k | 2026-11 |
+| [short-drama-factory](https://github.com/lixiaoxiao9888-create/short-drama-factory) | Industrial short-drama screenwriting system that turns an idea or web novel into a 30 to 100 episode script. | 682 | 2026-11 |
 | [screen-creative-skills](https://github.com/VanGong1999/screen-creative-skills) | 31 film and TV development skills for IP adaptation, premise, character bios, breakdowns and outlines. | 520 | 2026-11 |
-| [OnlyShot](https://github.com/A-cat-with-carrots/OnlyShot) | Five-step short-drama pipeline (script, shots, frames, video, edit) integrated with Jimeng and Seedance. | 425 | 2026-11 |
-| [Micro-Drama-Skills](https://github.com/zhaihao118/Micro-Drama-Skills) | Claude Skills that automate a micro-drama workflow from script and characters to storyboards and video jobs. | 342 | 2026-02 |
-| [story-shot-agent](https://github.com/neopen/story-shot-agent) | Agent that splits any script into shots and writes consistent text-to-video prompts across them. | 244 | 2026-11 |
+| [OnlyShot](https://github.com/A-cat-with-carrots/OnlyShot) | Five-step short-drama pipeline (script, shots, frames, video, edit) integrated with Jimeng and Seedance. | 426 | 2026-11 |
+| [Micro-Drama-Skills](https://github.com/zhaihao118/Micro-Drama-Skills) | Claude Skills that automate a micro-drama workflow from script and characters to storyboards and video jobs. | 343 | 2026-02 |
+| [story-shot-agent](https://github.com/neopen/story-shot-agent) | Agent that splits any script into shots and writes consistent text-to-video prompts across them. | 247 | 2026-11 |
 | [Wan-skills](https://github.com/Wan-Video/Wan-skills) | Official Wan agent skills for calling Wan generation from your agent. | 80 | 2026-04 |
 
 ## Open video generation models
@@ -118,10 +118,11 @@ Video models with downloadable weights for local runs or ComfyUI. Without enough
 | Project | Description | ⭐ | Last update |
 |---|---|---:|---|
 | [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-Sora, efficient open video generation for everyone. | 29.9k | 2026-04 |
-| [Wan2.2](https://github.com/Wan-Video/Wan2.2) | Wan2.2 from Alibaba, an open large-scale video model for text-to-video and image-to-video. | 18.8k | 2026-09 |
+| [Wan2.2](https://github.com/Wan-Video/Wan2.2) | Wan2.2 from Alibaba, an open large-scale video model for text-to-video and image-to-video. | 18.9k | 2026-09 |
 | [Wan2.1](https://github.com/Wan-Video/Wan2.1) | Wan2.1, the previous Wan generation, with many community workflows and LoRAs. | 17.5k | 2026-03 |
 | [FramePack](https://github.com/lllyasviel/FramePack) 💤 | Makes long video diffusion practical on consumer GPUs. | 17.4k | 2025-10 |
 | [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) | Tencent Hunyuan video generation framework. | 12.8k | 2026-10 |
+| [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) | MiniMax's open-weight audio-video model for text, first/last-frame and reference-driven (image, video, audio) generation of 4-15 s clips with stereo sound. | 12.2k | 2026-10 |
 | [LTX-Video](https://github.com/Lightricks/LTX-Video) | LTX-Video, a fast open video model. | 11.5k | 2026-11 |
 | [LTX-2](https://github.com/Lightricks/LTX-2) | LTX-2 audio-video model with an official LoRA trainer. | 10.4k | 2026-11 |
 | [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | SkyReels-V2, an infinite-length film generation model. | 7.8k | 2026-01 |
@@ -130,7 +131,6 @@ Video models with downloadable weights for local runs or ComfyUI. Without enough
 | [Helios](https://github.com/PKU-YuanGroup/Helios) | Real-time long video generation model. | 2.3k | 2026-11 |
 | [HunyuanVideo-I2V](https://github.com/Tencent-Hunyuan/HunyuanVideo-I2V) | Customizable image-to-video model based on HunyuanVideo. | 1.9k | 2026-04 |
 | [SkyReels-V3](https://github.com/SkyworkAI/SkyReels-V3) | SkyReels V3 multimodal video generation model. | 604 | 2026-01 |
-| [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) | MiniMax's open-weight audio-video model for text, first/last-frame and reference-driven (image, video, audio) generation of 4-15 s clips with stereo sound. | - | - |
 
 ## Character consistency and image generation
 
@@ -147,18 +147,18 @@ Character voices and narration. For multi-speaker dialogue, look at dialogue mod
 
 | Project | Description | ⭐ | Last update |
 |---|---|---:|---|
+| [GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) | Few-shot voice cloning from about one minute of audio, widely used in Chinese communities. | 64.3k | 2026-11 |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | Microsoft's open voice models for long-form, multi-speaker speech. | 57.5k | 2026-10 |
-| [fish-speech](https://github.com/fishaudio/fish-speech) | Fish Speech open TTS with multilingual support. | 33.8k | 2026-11 |
-| [index-tts](https://github.com/index-tts/index-tts) | IndexTTS from Bilibili, industrial-grade controllable zero-shot TTS. | 25.2k | 2026-09 |
+| [fish-speech](https://github.com/fishaudio/fish-speech) | Fish Speech open TTS with multilingual support. | 33.9k | 2026-11 |
+| [index-tts](https://github.com/index-tts/index-tts) | IndexTTS from Bilibili, industrial-grade controllable zero-shot TTS. | 25.3k | 2026-09 |
 | [CosyVoice](https://github.com/QwenAudio/CosyVoice) | CosyVoice multilingual voice generation with inference, training and deployment. | 24.5k | 2026-05 |
-| [F5-TTS](https://github.com/SWivid/F5-TTS) | Zero-shot TTS based on flow matching. | 15.6k | 2026-11 |
+| [F5-TTS](https://github.com/SWivid/F5-TTS) | Zero-shot TTS based on flow matching. | 15.7k | 2026-11 |
 | [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) | Qwen3-TTS with streaming synthesis, free-form voice design and voice cloning. | 14.6k | 2026-03 |
 | [higgs-audio](https://github.com/boson-ai/higgs-audio) | Expressive text-audio foundation model from Boson AI. | 8.4k | 2026-06 |
 | [MegaTTS3](https://github.com/bytedance/MegaTTS3) | ByteDance MegaTTS 3, zero-shot Chinese and English speech synthesis. | 6.1k | 2026-06 |
+| [FireRedTTS3](https://github.com/FireRedTeam/FireRedTTS3) | FireRedTTS3: zero-shot voice cloning in 24 languages and 21 Chinese dialects, plus voice design from text and speech editing in the Instruct model (the README limits cloning to academic research). | 1.7k | 2026-09 |
+| [AuK](https://github.com/Tencent-Hunyuan/AuK) | Tencent Hunyuan's AuK speech model: zero-shot and instruction TTS plus editing recorded lines (replace, insert or delete words) and changing pace, pitch and emotion; includes ComfyUI nodes. | 1.6k | 2026-11 |
 | [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) | Long-form multi-speaker dialogue synthesis with zero-shot cloning, good for character dialogue. | 1.4k | 2026-09 |
-| [GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) | Few-shot voice cloning from about one minute of audio, widely used in Chinese communities. | - | - |
-| [FireRedTTS3](https://github.com/FireRedTeam/FireRedTTS3) | FireRedTTS3: zero-shot voice cloning in 24 languages and 21 Chinese dialects, plus voice design from text and speech editing in the Instruct model (the README limits cloning to academic research). | - | - |
-| [AuK](https://github.com/Tencent-Hunyuan/AuK) | Tencent Hunyuan's AuK speech model: zero-shot and instruction TTS plus editing recorded lines (replace, insert or delete words) and changing pace, pitch and emotion; includes ComfyUI nodes. | - | - |
 
 ## Lip sync and talking video
 
@@ -173,7 +173,7 @@ Make characters deliver their lines. InfiniteTalk and MultiTalk handle long and 
 | [HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) | Hunyuan video avatar for audio-driven multi-character animation. | 2.2k | 2025-12 |
 | [fantasy-talking](https://github.com/Fantasy-AMAP/fantasy-talking) | Talking portrait generation with coherent motion. | 1.6k | 2026-01 |
 | [echomimic_v3](https://github.com/antgroup/echomimic_v3) | Ant Group EchoMimic V3, 1.3B multimodal human animation. | 1.1k | 2026-03 |
-| [X-Dub](https://github.com/KlingAIResearch/X-Dub) | X-Dub from the Kling team, mask-free visual dubbing that re-syncs a person's mouth in existing footage to new audio; single-person shots only for now. | - | - |
+| [X-Dub](https://github.com/KlingAIResearch/X-Dub) | X-Dub from the Kling team, mask-free visual dubbing that re-syncs a person's mouth in existing footage to new audio; single-person shots only for now. | 242 | 2026-08 |
 
 ## Music and sound effects
 
@@ -181,9 +181,9 @@ Score, theme songs and Foley. MMAudio and ThinkSound generate sound effects from
 
 | Project | Description | ⭐ | Last update |
 |---|---|---:|---|
-| [ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) | Local music generation model for Mac, AMD, Intel and CUDA. | 15.1k | 2026-11 |
+| [ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) | Local music generation model for Mac, AMD, Intel and CUDA. | 15.2k | 2026-11 |
 | [YuE](https://github.com/multimodal-art-projection/YuE) | YuE full-song generation with covers and music editing. | 13.7k | 2026-11 |
-| [ace-step-ui](https://github.com/fspecii/ace-step-ui) | Desktop UI for ACE-Step 1.5, free local music generation. | 5.2k | 2026-06 |
+| [ace-step-ui](https://github.com/fspecii/ace-step-ui) | Desktop UI for ACE-Step 1.5, free local music generation. | 5.3k | 2026-06 |
 | [heartlib](https://github.com/HeartMuLa/heartlib) | HeartMuLa open music generation model. | 3.8k | 2026-11 |
 | [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) | Fast end-to-end full-length song generation. | 2.4k | 2025-11 |
 | [MMAudio](https://github.com/hkchengrex/MMAudio) | Video-to-audio synthesis. | 2.3k | 2026-02 |
@@ -197,14 +197,14 @@ The last mile after generation: transcription, translation for overseas release,
 |---|---|---:|---|
 | [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) 💤 | General image and video super-resolution (older but still widely used). | 37.6k | 2024-08 |
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | Faster Whisper transcription, a building block for subtitles. | 27.0k | 2026-11 |
-| [whisperX](https://github.com/m-bain/whisperX) | Speech recognition with word-level timestamps and diarization. | 25.6k | 2026-11 |
+| [whisperX](https://github.com/m-bain/whisperX) | Speech recognition with word-level timestamps and diarization. | 25.7k | 2026-11 |
 | [video2x](https://github.com/k4yt3x/video2x) | Machine-learning video upscaling and frame interpolation. | 22.9k | 2026-03 |
 | [pyvideotrans](https://github.com/jianchang512/pyvideotrans) | Translates videos with dubbing and embedded subtitles, useful for overseas release. | 19.8k | 2026-11 |
 | [VideoLingo](https://github.com/Huanshere/VideoLingo) | Netflix-grade subtitle splitting, translation, alignment and dubbing in one click. | 19.4k | 2026-11 |
 | [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) | GUI for upscaling and interpolation with Real-ESRGAN, Real-CUGAN, RIFE and more; good for anime. | 17.3k | 2026-11 |
 | [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | LLM-powered subtitle generation, segmentation, correction and translation. | 16.6k | 2026-09 |
 | [shotcut](https://github.com/mltframework/shotcut) | Cross-platform open-source video editor. | 15.8k | 2026-11 |
-| [SmartSub](https://github.com/buxuku/SmartSub) | Desktop app to transcribe, translate, dub and burn subtitles. | 6.1k | 2026-11 |
+| [SmartSub](https://github.com/buxuku/SmartSub) | Desktop app to transcribe, translate, dub and burn subtitles. | 6.2k | 2026-11 |
 | [SeedVR](https://github.com/ByteDance-Seed/SeedVR) | ByteDance SeedVR and SeedVR2, diffusion-based video restoration and upscaling. | 1.5k | 2026-01 |
 | [Practical-RIFE](https://github.com/hzwer/Practical-RIFE) | Practical frame interpolation for smoother motion. | 1.1k | 2026-08 |
 
@@ -214,11 +214,11 @@ For commentary videos, novel promos and highlight clips rather than full dramas.
 
 | Project | Description | ⭐ | Last update |
 |---|---|---:|---|
-| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Generates HD short videos from a topic or keyword. | 145.2k | 2026-11 |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Generates HD short videos from a topic or keyword. | 145.6k | 2026-11 |
 | [NarratoAI](https://github.com/linyqh/NarratoAI) | One-click AI narration and editing, suited to film and drama recaps. | 11.9k | 2026-10 |
-| [dramaxis](https://github.com/Agions/dramaxis) | Multi-agent narrative and commentary platform that works with CapCut drafts. | 466 | 2026-11 |
+| [YouDub-Desktop](https://github.com/liuzhao1225/YouDub-Desktop) | Desktop app for video localization and dubbing (formerly YouDub-webui): transcription, subtitle translation, per-sentence voice cloning, vocal separation and mixing. | 5.9k | 2026-11 |
+| [dramaxis](https://github.com/Agions/dramaxis) | Multi-agent narrative and commentary platform that works with CapCut drafts. | 468 | 2026-11 |
 | [AI_novel](https://github.com/tyxben/AI_novel) | Turns novels into short videos with narration and AI images for Douyin and Xiaohongshu. | 270 | 2026-08 |
-| [YouDub-Desktop](https://github.com/liuzhao1225/YouDub-Desktop) | Desktop app for video localization and dubbing (formerly YouDub-webui): transcription, subtitle translation, per-sentence voice cloning, vocal separation and mixing. | - | - |
 
 ## ComfyUI ecosystem
 
@@ -226,12 +226,12 @@ The core of most local setups; nearly every open video, voice and lip-sync model
 
 | Project | Description | ⭐ | Last update |
 |---|---|---:|---|
-| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Node-based diffusion GUI and backend, the de facto standard for local AIGC. | 148.2k | 2026-11 |
+| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Node-based diffusion GUI and backend, the de facto standard for local AIGC. | 148.5k | 2026-11 |
 | [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) | ComfyUI wrapper nodes for Wan and related video models. | 6.8k | 2026-11 |
-| [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) | Common video nodes for loading, combining and exporting. | 1.9k | 2026-09 |
+| [ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) | Official Lightricks ComfyUI nodes and workflows for LTX-2 / LTX-2.3 audio-video generation, with IC-LoRA controls (pose, depth, camera) and upscalers. | 4.3k | 2026-11 |
+| [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) | Common video nodes for loading, combining and exporting. | 1.9k | 2026-11 |
 | [ComfyUI-Frame-Interpolation](https://github.com/Fannovel16/ComfyUI-Frame-Interpolation) | Frame interpolation nodes for ComfyUI. | 1.1k | 2026-03 |
-| [comfyui-AICG3D](https://github.com/JGRFW/comfyui-AICG3D) 🆕 | Local short-drama workspace plugin for ComfyUI with long-video generation. | 680 | 2026-11 |
-| [ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) | Official Lightricks ComfyUI nodes and workflows for LTX-2 / LTX-2.3 audio-video generation, with IC-LoRA controls (pose, depth, camera) and upscalers. | - | - |
+| [comfyui-AICG3D](https://github.com/JGRFW/comfyui-AICG3D) 🆕 | Local short-drama workspace plugin for ComfyUI with long-video generation. | 703 | 2026-11 |
 
 ## Prompt and case libraries
 
@@ -270,7 +270,7 @@ The fastest way to get footage without a local setup. Features and pricing chang
 | Project | Description | ⭐ | Last update |
 |---|---|---:|---|
 | [awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) 🆕 | Curated AI drama agent skills. | 2.8k | 2026-11 |
-| [awesome-ai-media-cn](https://github.com/JuneYaooo/awesome-ai-media-cn) | AI video production and social media tools. | 417 | 2026-11 |
+| [awesome-ai-media-cn](https://github.com/JuneYaooo/awesome-ai-media-cn) | AI video production and social media tools. | 420 | 2026-11 |
 | [awesome-ai-video](https://github.com/zhaotoday/awesome-ai-video) 🆕 | Index of AI video production resources. | 66 | 2026-11 |
 
 ## Contributing
