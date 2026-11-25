@@ -31,7 +31,7 @@ flowchart TB
 |---|---|---|
 | No code | Fastest results | [Jimeng](https://jimeng.jianying.com/) or [Kling](https://kling.ai/) for shots + [IndexTTS](https://github.com/index-tts/index-tts) for voice + [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) for subtitles |
 | All-in-one open studio | A full workspace you can self-host | [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) or [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) with your own model keys |
-| Fully local | You have a GPU and want control | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) + [Wan2.2](https://github.com/Wan-Video/Wan2.2) + [Qwen-Image](https://github.com/QwenLM/Qwen-Image) for character sheets + [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) + [InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) for lip sync |
+| Fully local | You have a GPU and want control | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) + [Wan2.2](https://github.com/Wan-Video/Wan2.2) + [Qwen-Image](https://github.com/QwenLM/Qwen-Image) for character sheets + [GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) + [InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) for lip sync |
 | Agent workflow | Claude Code or Codex writes scripts and shots | [shuohao-skills](https://github.com/eternityspring/shuohao-skills) or [drama-skills](https://github.com/zenstory-ai/drama-skills), then any video model |
 
 ## Contents
