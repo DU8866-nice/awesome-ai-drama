@@ -85,6 +85,9 @@ Open-source workspaces that take a novel or a one-line idea through script, char
 | [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | Free, lightweight AI canvas for drama scripts, characters, storyboards, generation and editing, with ComfyUI, agents and MCP. | 397 | 2026-11 |
 | [novelvids](https://github.com/Anning01/novelvids) | Self-hostable AI drama workspace covering story, character assets, storyboards and generation. | 389 | 2026-11 |
 | [Kinema](https://github.com/chillzhuang/Kinema) | Video agent driven by Codex or Claude Code that plans chapters and shots and manages assets through to the final film. | 248 | 2026-11 |
+| [moyin-creator](https://github.com/MemeCalculate/moyin-creator) | Desktop app for AI film and short-drama production: script parsing, character bibles with reference images, storyboards with camera settings and batch image/video generation, with Seedance 2.0 multi-reference support. | - | - |
+| [open-ai-canvas](https://github.com/ddcat-ai/open-ai-canvas) | Yingce, an infinite-canvas workspace for AI film and drama with scripts, characters, structured storyboards, 3D previs, multimodal generation, an asset library and timeline editing. | - | - |
+| [reveric](https://github.com/looplj/reveric) | Reveric, an agent-driven desktop workspace combining novel and screenplay editors, a storyboard canvas, a 3D director stage and a multi-track editor, using your own model keys. | - | - |
 
 ## Agent skills (script, storyboard, prompts)
 
@@ -127,6 +130,7 @@ Video models with downloadable weights for local runs or ComfyUI. Without enough
 | [Helios](https://github.com/PKU-YuanGroup/Helios) | Real-time long video generation model. | 2.3k | 2026-11 |
 | [HunyuanVideo-I2V](https://github.com/Tencent-Hunyuan/HunyuanVideo-I2V) | Customizable image-to-video model based on HunyuanVideo. | 1.9k | 2026-04 |
 | [SkyReels-V3](https://github.com/SkyworkAI/SkyReels-V3) | SkyReels V3 multimodal video generation model. | 604 | 2026-01 |
+| [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) | MiniMax's open-weight audio-video model for text, first/last-frame and reference-driven (image, video, audio) generation of 4-15 s clips with stereo sound. | - | - |
 
 ## Character consistency and image generation
 
@@ -153,6 +157,8 @@ Character voices and narration. For multi-speaker dialogue, look at dialogue mod
 | [MegaTTS3](https://github.com/bytedance/MegaTTS3) | ByteDance MegaTTS 3, zero-shot Chinese and English speech synthesis. | 6.1k | 2026-06 |
 | [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) | Long-form multi-speaker dialogue synthesis with zero-shot cloning, good for character dialogue. | 1.4k | 2026-09 |
 | [GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) | Few-shot voice cloning from about one minute of audio, widely used in Chinese communities. | - | - |
+| [FireRedTTS3](https://github.com/FireRedTeam/FireRedTTS3) | FireRedTTS3: zero-shot voice cloning in 24 languages and 21 Chinese dialects, plus voice design from text and speech editing in the Instruct model (the README limits cloning to academic research). | - | - |
+| [AuK](https://github.com/Tencent-Hunyuan/AuK) | Tencent Hunyuan's AuK speech model: zero-shot and instruction TTS plus editing recorded lines (replace, insert or delete words) and changing pace, pitch and emotion; includes ComfyUI nodes. | - | - |
 
 ## Lip sync and talking video
 
@@ -167,6 +173,7 @@ Make characters deliver their lines. InfiniteTalk and MultiTalk handle long and 
 | [HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) | Hunyuan video avatar for audio-driven multi-character animation. | 2.2k | 2025-12 |
 | [fantasy-talking](https://github.com/Fantasy-AMAP/fantasy-talking) | Talking portrait generation with coherent motion. | 1.6k | 2026-01 |
 | [echomimic_v3](https://github.com/antgroup/echomimic_v3) | Ant Group EchoMimic V3, 1.3B multimodal human animation. | 1.1k | 2026-03 |
+| [X-Dub](https://github.com/KlingAIResearch/X-Dub) | X-Dub from the Kling team, mask-free visual dubbing that re-syncs a person's mouth in existing footage to new audio; single-person shots only for now. | - | - |
 
 ## Music and sound effects
 
@@ -224,6 +231,7 @@ The core of most local setups; nearly every open video, voice and lip-sync model
 | [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) | Common video nodes for loading, combining and exporting. | 1.9k | 2026-09 |
 | [ComfyUI-Frame-Interpolation](https://github.com/Fannovel16/ComfyUI-Frame-Interpolation) | Frame interpolation nodes for ComfyUI. | 1.1k | 2026-03 |
 | [comfyui-AICG3D](https://github.com/JGRFW/comfyui-AICG3D) 🆕 | Local short-drama workspace plugin for ComfyUI with long-video generation. | 680 | 2026-11 |
+| [ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) | Official Lightricks ComfyUI nodes and workflows for LTX-2 / LTX-2.3 audio-video generation, with IC-LoRA controls (pose, depth, camera) and upscalers. | - | - |
 
 ## Prompt and case libraries
 

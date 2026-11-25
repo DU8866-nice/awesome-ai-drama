@@ -81,6 +81,15 @@ categories:
       - repo: chillzhuang/Kinema
         zh: "由 Codex、Claude Code 驱动的影像智能体，管理章节与分镜规划、角色场景道具资产，直到成片。"
         en: "Video agent driven by Codex or Claude Code that plans chapters and shots and manages assets through to the final film."
+      - repo: MemeCalculate/moyin-creator
+        zh: "桌面端 AI 影视 / 短剧制作工具：剧本解析、角色设定绑定参考图、带镜头参数的分镜，批量出图出视频，支持 Seedance 2.0 多参考生成。"
+        en: "Desktop app for AI film and short-drama production: script parsing, character bibles with reference images, storyboards with camera settings and batch image/video generation, with Seedance 2.0 multi-reference support."
+      - repo: ddcat-ai/open-ai-canvas
+        zh: "影策，面向 AI 影视创作的无限画布工作台，管理剧本、角色场景和结构化分镜，带 3D 预演、多模态生成、素材库和时间线剪辑。"
+        en: "Yingce, an infinite-canvas workspace for AI film and drama with scripts, characters, structured storyboards, 3D previs, multimodal generation, an asset library and timeline editing."
+      - repo: looplj/reveric
+        zh: "幻界，Agent 驱动的桌面创作工作台，集小说与剧本编辑、分镜画布、3D 导演台和多轨剪辑于一体，模型用自己的 Key 接入。"
+        en: "Reveric, an agent-driven desktop workspace combining novel and screenplay editors, a storyboard canvas, a 3D director stage and a multi-track editor, using your own model keys."
 
   - id: skills
     zh: "Agent Skills（剧本 · 分镜 · 提示词）"
@@ -179,6 +188,9 @@ categories:
       - repo: SkyworkAI/SkyReels-V3
         zh: "SkyReels V3 多模态视频生成模型。"
         en: "SkyReels V3 multimodal video generation model."
+      - repo: MiniMax-AI/MiniMax-H3
+        zh: "MiniMax 开放权重的音视频联合生成模型，支持文生视频、首尾帧和参考图 / 视频 / 音频生成，输出带立体声的 4 至 15 秒视频。"
+        en: "MiniMax's open-weight audio-video model for text, first/last-frame and reference-driven (image, video, audio) generation of 4-15 s clips with stereo sound."
 
   - id: consistency
     zh: "角色一致性与图像生成 / 编辑"
@@ -229,6 +241,12 @@ categories:
       - repo: OpenMOSS/MOSS-TTSD
         zh: "多说话人长对话合成，零样本克隆，适合角色对白。"
         en: "Long-form multi-speaker dialogue synthesis with zero-shot cloning, good for character dialogue."
+      - repo: FireRedTeam/FireRedTTS3
+        zh: "FireRedTTS3，24 种语言和 21 种中文方言的零样本声音克隆，Instruct 版可按文字描述设计音色并编辑语音（README 注明克隆功能仅供学术研究）。"
+        en: "FireRedTTS3: zero-shot voice cloning in 24 languages and 21 Chinese dialects, plus voice design from text and speech editing in the Instruct model (the README limits cloning to academic research)."
+      - repo: Tencent-Hunyuan/AuK
+        zh: "腾讯混元 AuK 语音基础模型，零样本和指令式 TTS 之外，还能替换、插入、删除已录台词里的字词，调整语速、音高和情绪，带 ComfyUI 节点。"
+        en: "Tencent Hunyuan's AuK speech model: zero-shot and instruction TTS plus editing recorded lines (replace, insert or delete words) and changing pace, pitch and emotion; includes ComfyUI nodes."
 
   - id: lipsync
     zh: "口型同步与对话视频"
@@ -257,6 +275,9 @@ categories:
       - repo: antgroup/echomimic_v3
         zh: "蚂蚁 EchoMimic V3，1.3B 参数的多模态人体动画。"
         en: "Ant Group EchoMimic V3, 1.3B multimodal human animation."
+      - repo: KlingAIResearch/X-Dub
+        zh: "可灵团队的 X-Dub，无需遮罩的视频对口型：给已有视频里的人物换一段音频并重新生成嘴型，目前只支持单人画面。"
+        en: "X-Dub from the Kling team, mask-free visual dubbing that re-syncs a person's mouth in existing footage to new audio; single-person shots only for now."
 
   - id: audio
     zh: "配乐与音效"
@@ -372,6 +393,9 @@ categories:
       - repo: JGRFW/comfyui-AICG3D
         zh: "ComfyUI 本地短剧工作台插件，支持长视频生成。"
         en: "Local short-drama workspace plugin for ComfyUI with long-video generation."
+      - repo: Lightricks/ComfyUI-LTXVideo
+        zh: "Lightricks 官方 ComfyUI 节点和示例工作流，用于 LTX-2 / LTX-2.3 音视频生成，带姿态、深度、镜头运动等 IC-LoRA 控制和放大模型。"
+        en: "Official Lightricks ComfyUI nodes and workflows for LTX-2 / LTX-2.3 audio-video generation, with IC-LoRA controls (pose, depth, camera) and upscalers."
 
   - id: prompts
     zh: "提示词与案例库"

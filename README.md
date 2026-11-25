@@ -85,6 +85,9 @@ flowchart TB
 | [AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | 免费轻量的 AI 无限画布，支持短剧剧本、角色、分镜、出图出视频和剪辑，集成 ComfyUI、Agent、MCP。 | 397 | 2026-11 |
 | [novelvids](https://github.com/Anning01/novelvids) | AI 漫剧与短剧创作工作台，覆盖故事创作、角色资产、分镜和出图出视频，支持本地部署。 | 389 | 2026-11 |
 | [Kinema](https://github.com/chillzhuang/Kinema) | 由 Codex、Claude Code 驱动的影像智能体，管理章节与分镜规划、角色场景道具资产，直到成片。 | 248 | 2026-11 |
+| [moyin-creator](https://github.com/MemeCalculate/moyin-creator) | 桌面端 AI 影视 / 短剧制作工具：剧本解析、角色设定绑定参考图、带镜头参数的分镜，批量出图出视频，支持 Seedance 2.0 多参考生成。 | - | - |
+| [open-ai-canvas](https://github.com/ddcat-ai/open-ai-canvas) | 影策，面向 AI 影视创作的无限画布工作台，管理剧本、角色场景和结构化分镜，带 3D 预演、多模态生成、素材库和时间线剪辑。 | - | - |
+| [reveric](https://github.com/looplj/reveric) | 幻界，Agent 驱动的桌面创作工作台，集小说与剧本编辑、分镜画布、3D 导演台和多轨剪辑于一体，模型用自己的 Key 接入。 | - | - |
 
 ## Agent Skills（剧本 · 分镜 · 提示词）
 
@@ -127,6 +130,7 @@ flowchart TB
 | [Helios](https://github.com/PKU-YuanGroup/Helios) | 实时长视频生成模型。 | 2.3k | 2026-11 |
 | [HunyuanVideo-I2V](https://github.com/Tencent-Hunyuan/HunyuanVideo-I2V) | 基于混元视频的可定制图生视频模型。 | 1.9k | 2026-04 |
 | [SkyReels-V3](https://github.com/SkyworkAI/SkyReels-V3) | SkyReels V3 多模态视频生成模型。 | 604 | 2026-01 |
+| [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) | MiniMax 开放权重的音视频联合生成模型，支持文生视频、首尾帧和参考图 / 视频 / 音频生成，输出带立体声的 4 至 15 秒视频。 | - | - |
 
 ## 角色一致性与图像生成 / 编辑
 
@@ -153,6 +157,8 @@ flowchart TB
 | [MegaTTS3](https://github.com/bytedance/MegaTTS3) | 字节 MegaTTS 3，中英零样本语音合成。 | 6.1k | 2026-06 |
 | [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) | 多说话人长对话合成，零样本克隆，适合角色对白。 | 1.4k | 2026-09 |
 | [GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) | 1 分钟语音就能训练出可用的声音模型，中文社区使用广泛。 | - | - |
+| [FireRedTTS3](https://github.com/FireRedTeam/FireRedTTS3) | FireRedTTS3，24 种语言和 21 种中文方言的零样本声音克隆，Instruct 版可按文字描述设计音色并编辑语音（README 注明克隆功能仅供学术研究）。 | - | - |
+| [AuK](https://github.com/Tencent-Hunyuan/AuK) | 腾讯混元 AuK 语音基础模型，零样本和指令式 TTS 之外，还能替换、插入、删除已录台词里的字词，调整语速、音高和情绪，带 ComfyUI 节点。 | - | - |
 
 ## 口型同步与对话视频
 
@@ -167,6 +173,7 @@ flowchart TB
 | [HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) | 混元视频数字人，音频驱动的多角色动画。 | 2.2k | 2025-12 |
 | [fantasy-talking](https://github.com/Fantasy-AMAP/fantasy-talking) | 动作连贯的说话人像生成。 | 1.6k | 2026-01 |
 | [echomimic_v3](https://github.com/antgroup/echomimic_v3) | 蚂蚁 EchoMimic V3，1.3B 参数的多模态人体动画。 | 1.1k | 2026-03 |
+| [X-Dub](https://github.com/KlingAIResearch/X-Dub) | 可灵团队的 X-Dub，无需遮罩的视频对口型：给已有视频里的人物换一段音频并重新生成嘴型，目前只支持单人画面。 | - | - |
 
 ## 配乐与音效
 
@@ -224,6 +231,7 @@ flowchart TB
 | [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) | 视频加载、合成、导出等常用视频节点。 | 1.9k | 2026-09 |
 | [ComfyUI-Frame-Interpolation](https://github.com/Fannovel16/ComfyUI-Frame-Interpolation) | ComfyUI 补帧节点。 | 1.1k | 2026-03 |
 | [comfyui-AICG3D](https://github.com/JGRFW/comfyui-AICG3D) 🆕 | ComfyUI 本地短剧工作台插件，支持长视频生成。 | 680 | 2026-11 |
+| [ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) | Lightricks 官方 ComfyUI 节点和示例工作流，用于 LTX-2 / LTX-2.3 音视频生成，带姿态、深度、镜头运动等 IC-LoRA 控制和放大模型。 | - | - |
 
 ## 提示词与案例库
 
