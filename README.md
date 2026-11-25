@@ -143,7 +143,6 @@ flowchart TB
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|---:|---|
-| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 分钟语音就能训练出可用的声音模型，中文社区使用广泛。 | 64.2k | 2026-11 |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | 微软开源语音模型，支持长篇多说话人语音合成。 | 57.5k | 2026-10 |
 | [fish-speech](https://github.com/fishaudio/fish-speech) | Fish Speech 开源 TTS，中英日等多语言。 | 33.8k | 2026-11 |
 | [index-tts](https://github.com/index-tts/index-tts) | B 站开源的 IndexTTS，工业级可控的零样本 TTS。 | 25.2k | 2026-09 |
@@ -153,6 +152,7 @@ flowchart TB
 | [higgs-audio](https://github.com/boson-ai/higgs-audio) | Boson AI 的文本-音频基础模型，表现力强。 | 8.4k | 2026-06 |
 | [MegaTTS3](https://github.com/bytedance/MegaTTS3) | 字节 MegaTTS 3，中英零样本语音合成。 | 6.1k | 2026-06 |
 | [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) | 多说话人长对话合成，零样本克隆，适合角色对白。 | 1.4k | 2026-09 |
+| [GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) | 1 分钟语音就能训练出可用的声音模型，中文社区使用广泛。 | - | - |
 
 ## 口型同步与对话视频
 
@@ -209,9 +209,9 @@ flowchart TB
 |---|---|---:|---|
 | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 输入主题或关键词，一键生成高清短视频。 | 145.2k | 2026-11 |
 | [NarratoAI](https://github.com/linyqh/NarratoAI) | 用大模型一键生成解说并剪辑视频，适合影视和短剧解说。 | 11.9k | 2026-10 |
-| [YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) | 视频翻译配音：语音识别、字幕翻译、声音克隆、混音渲染。 | 5.9k | 2026-11 |
 | [dramaxis](https://github.com/Agions/dramaxis) | 剧枢，多智能体影视叙事与解说平台，可与剪映草稿互通。 | 466 | 2026-11 |
 | [AI_novel](https://github.com/tyxben/AI_novel) | 小说一键转短视频（有声书 + AI 配图），适用于抖音 / 小红书。 | 270 | 2026-08 |
+| [YouDub-Desktop](https://github.com/liuzhao1225/YouDub-Desktop) | 视频翻译配音桌面工具（原 YouDub-webui）：语音识别、字幕翻译、逐句声音克隆、人声分离和混音渲染。 | - | - |
 
 ## ComfyUI 生态
 
@@ -233,7 +233,7 @@ flowchart TB
 |---|---|---:|---|
 | [awesome-image-video-prompts](https://github.com/ai-boost/awesome-image-video-prompts) | 主流图像 / 视频模型的可复制提示词，附真实输出和出处。 | 3.5k | 2026-11 |
 | [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) | Seedance 2.0 高质量提示词与资源，覆盖电影、动漫、广告等场景。 | 2.9k | 2026-11 |
-| [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) 🆕 | 有出处可查的 Seedance 提示词库，带跨模型复测和模板，中英日三语。 | 2.6k | 2026-11 |
+| [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) | 有出处可查的 Seedance 提示词库，带跨模型复测和模板，中英日三语。 | 2.6k | 2026-11 |
 
 ## 商用模型与平台（非开源）
 

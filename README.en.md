@@ -143,7 +143,6 @@ Character voices and narration. For multi-speaker dialogue, look at dialogue mod
 
 | Project | Description | ⭐ | Last update |
 |---|---|---:|---|
-| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | Few-shot voice cloning from about one minute of audio, widely used in Chinese communities. | 64.2k | 2026-11 |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | Microsoft's open voice models for long-form, multi-speaker speech. | 57.5k | 2026-10 |
 | [fish-speech](https://github.com/fishaudio/fish-speech) | Fish Speech open TTS with multilingual support. | 33.8k | 2026-11 |
 | [index-tts](https://github.com/index-tts/index-tts) | IndexTTS from Bilibili, industrial-grade controllable zero-shot TTS. | 25.2k | 2026-09 |
@@ -153,6 +152,7 @@ Character voices and narration. For multi-speaker dialogue, look at dialogue mod
 | [higgs-audio](https://github.com/boson-ai/higgs-audio) | Expressive text-audio foundation model from Boson AI. | 8.4k | 2026-06 |
 | [MegaTTS3](https://github.com/bytedance/MegaTTS3) | ByteDance MegaTTS 3, zero-shot Chinese and English speech synthesis. | 6.1k | 2026-06 |
 | [MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD) | Long-form multi-speaker dialogue synthesis with zero-shot cloning, good for character dialogue. | 1.4k | 2026-09 |
+| [GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) | Few-shot voice cloning from about one minute of audio, widely used in Chinese communities. | - | - |
 
 ## Lip sync and talking video
 
@@ -209,9 +209,9 @@ For commentary videos, novel promos and highlight clips rather than full dramas.
 |---|---|---:|---|
 | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Generates HD short videos from a topic or keyword. | 145.2k | 2026-11 |
 | [NarratoAI](https://github.com/linyqh/NarratoAI) | One-click AI narration and editing, suited to film and drama recaps. | 11.9k | 2026-10 |
-| [YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) | Video localization and dubbing with recognition, translation, voice cloning and mixing. | 5.9k | 2026-11 |
 | [dramaxis](https://github.com/Agions/dramaxis) | Multi-agent narrative and commentary platform that works with CapCut drafts. | 466 | 2026-11 |
 | [AI_novel](https://github.com/tyxben/AI_novel) | Turns novels into short videos with narration and AI images for Douyin and Xiaohongshu. | 270 | 2026-08 |
+| [YouDub-Desktop](https://github.com/liuzhao1225/YouDub-Desktop) | Desktop app for video localization and dubbing (formerly YouDub-webui): transcription, subtitle translation, per-sentence voice cloning, vocal separation and mixing. | - | - |
 
 ## ComfyUI ecosystem
 
@@ -233,7 +233,7 @@ Copy what already works.
 |---|---|---:|---|
 | [awesome-image-video-prompts](https://github.com/ai-boost/awesome-image-video-prompts) | Copy-ready prompts for leading image and video models, with real outputs and sources. | 3.5k | 2026-11 |
 | [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) | High-fidelity Seedance 2.0 prompts and resources for film, anime and ads. | 2.9k | 2026-11 |
-| [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) 🆕 | Source-traced Seedance prompt library with cross-model retests and templates in three languages. | 2.6k | 2026-11 |
+| [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) | Source-traced Seedance prompt library with cross-model retests and templates in three languages. | 2.6k | 2026-11 |
 
 ## Commercial models and platforms (not open source)
 

@@ -199,7 +199,7 @@ categories:
     zh_intro: "给角色配音、做旁白。多角色对白可以重点看 MOSS-TTSD、VibeVoice 这类对话合成模型。"
     en_intro: "Character voices and narration. For multi-speaker dialogue, look at dialogue models such as MOSS-TTSD and VibeVoice."
     items:
-      - repo: RVC-Boss/GPT-SoVITS
+      - repo: bilibili/GPT-SoVITS
         zh: "1 分钟语音就能训练出可用的声音模型，中文社区使用广泛。"
         en: "Few-shot voice cloning from about one minute of audio, widely used in Chinese communities."
       - repo: microsoft/VibeVoice
@@ -341,9 +341,9 @@ categories:
       - repo: linyqh/NarratoAI
         zh: "用大模型一键生成解说并剪辑视频，适合影视和短剧解说。"
         en: "One-click AI narration and editing, suited to film and drama recaps."
-      - repo: liuzhao1225/YouDub-webui
-        zh: "视频翻译配音：语音识别、字幕翻译、声音克隆、混音渲染。"
-        en: "Video localization and dubbing with recognition, translation, voice cloning and mixing."
+      - repo: liuzhao1225/YouDub-Desktop
+        zh: "视频翻译配音桌面工具（原 YouDub-webui）：语音识别、字幕翻译、逐句声音克隆、人声分离和混音渲染。"
+        en: "Desktop app for video localization and dubbing (formerly YouDub-webui): transcription, subtitle translation, per-sentence voice cloning, vocal separation and mixing."
       - repo: Agions/dramaxis
         zh: "剧枢，多智能体影视叙事与解说平台，可与剪映草稿互通。"
         en: "Multi-agent narrative and commentary platform that works with CapCut drafts."
